@@ -1,0 +1,510 @@
+{
+  "meta": {
+    "version": "2.0",
+    "total_questions": 25,
+    "categories": 6,
+    "created": "2025-08-04T08:27:40.779Z"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "Was versteht man unter Künstlicher Intelligenz (KI)?",
+      "type": "single_choice",
+      "options": {
+        "A": "Ein System, das menschliche Intelligenz simuliert und Aufgaben autonom ausführt",
+        "B": "Ein physischer Roboter mit mechanischen Bewegungen",
+        "C": "Eine einfache Datenbank zur Informationsspeicherung",
+        "D": "Ein Textverarbeitungsprogramm für Büroarbeiten"
+      },
+      "correct_answers": ["A"],
+      "category": "Grundlagen der Künstlichen Intelligenz",
+      "explanation": "KI bezeichnet Systeme, die menschliche kognitive Fähigkeiten nachahmen und eigenständig Probleme lösen können.",
+      "category_sayings": [
+        "Ah, die Grundlagen! Ohne sie ist KI nur ein Buzzword.",
+        "Hier beginnt alles - die Basis für echtes Verständnis!",
+        "Fundamentales Wissen ist der Schlüssel zum KI-Erfolg."
+      ],
+      "theme_color": "#3498db"
+    },
+    {
+      "id": 2,
+      "question": "Welche der folgenden Aussagen über KI-Systeme ist korrekt?",
+      "type": "single_choice",
+      "options": {
+        "A": "KI-Systeme können nur vorprogrammierte Aufgaben ausführen",
+        "B": "KI-Systeme lernen und verbessern sich durch Erfahrungen",
+        "C": "KI-Systeme benötigen keine Daten zum Funktionieren",
+        "D": "KI-Systeme arbeiten immer fehlerfrei"
+      },
+      "correct_answers": ["B"],
+      "category": "Grundlagen der Künstlichen Intelligenz",
+      "explanation": "Ein Hauptmerkmal von KI ist die Fähigkeit, aus Daten zu lernen und sich zu verbessern.",
+      "category_sayings": [
+        "Ah, die Grundlagen! Ohne sie ist KI nur ein Buzzword.",
+        "Hier beginnt alles - die Basis für echtes Verständnis!",
+        "Fundamentales Wissen ist der Schlüssel zum KI-Erfolg."
+      ],
+      "theme_color": "#3498db"
+    },
+    {
+      "id": 3,
+      "question": "Was unterscheidet starke KI von schwacher KI?",
+      "type": "single_choice",
+      "options": {
+        "A": "Starke KI ist physisch robuster gebaut",
+        "B": "Starke KI kann allgemeine Intelligenz erreichen, schwache KI nur spezifische Aufgaben",
+        "C": "Schwache KI verbraucht mehr Energie",
+        "D": "Es gibt keinen Unterschied zwischen beiden Begriffen"
+      },
+      "correct_answers": ["B"],
+      "category": "Grundlagen der Künstlichen Intelligenz",
+      "explanation": "Starke KI beschreibt theoretische Systeme mit allgemeiner Intelligenz, während schwache KI auf spezifische Aufgaben begrenzt ist.",
+      "category_sayings": [
+        "Ah, die Grundlagen! Ohne sie ist KI nur ein Buzzword.",
+        "Hier beginnt alles - die Basis für echtes Verständnis!",
+        "Fundamentales Wissen ist der Schlüssel zum KI-Erfolg."
+      ],
+      "theme_color": "#3498db"
+    },
+    {
+      "id": 4, 
+      "question": "Welche Eigenschaften zeichnen ein intelligentes System aus?",
+      "type": "multiple_choice",
+      "options": {
+        "A": "Anpassungsfähigkeit an neue Situationen",
+        "B": "Lernfähigkeit aus Erfahrungen",
+        "C": "Starrheit ohne Veränderungsmöglichkeit",
+        "D": "Autonome Entscheidungsfindung"
+      },
+      "correct_answers": ["A", "B", "D"],
+      "category": "Grundlagen der Künstlichen Intelligenz",
+      "explanation": "Intelligente Systeme zeichnen sich durch Anpassungsfähigkeit, Lernfähigkeit und Autonomie aus.",
+      "category_sayings": [
+        "Ah, die Grundlagen! Ohne sie ist KI nur ein Buzzword.",
+        "Hier beginnt alles - die Basis für echtes Verständnis!",
+        "Fundamentales Wissen ist der Schlüssel zum KI-Erfolg."
+      ],
+      "theme_color": "#3498db"
+    },
+    {
+      "id": 5,
+      "question": "Was versteht man unter einem Algorithmus?",
+      "type": "single_choice",
+      "options": {
+        "A": "Eine Hardware-Komponente des Computers",
+        "B": "Eine Schritt-für-Schritt-Anleitung zur Problemlösung",
+        "C": "Ein physisches Gerät zur Datenverarbeitung",
+        "D": "Eine Art von Datenbank"
+      },
+      "correct_answers": ["B"],
+      "category": "Grundlagen der Künstlichen Intelligenz",
+      "explanation": "Ein Algorithmus ist eine eindeutige Handlungsvorschrift zur Lösung eines Problems oder einer Klasse von Problemen.",
+      "category_sayings": [
+        "Ah, die Grundlagen! Ohne sie ist KI nur ein Buzzword.",
+        "Hier beginnt alles - die Basis für echtes Verständnis!",
+        "Fundamentales Wissen ist der Schlüssel zum KI-Erfolg."
+      ],
+      "theme_color": "#3498db"
+    },
+    {
+      "id": 6,
+      "question": "Was ist der Hauptunterschied zwischen überwachtem und unüberwachtem Lernen?",
+      "type": "single_choice",
+      "options": {
+        "A": "Überwachtes Lernen nutzt gelabelte Trainingsdaten, unüberwachtes nicht",
+        "B": "Unüberwachtes Lernen ist immer schneller als überwachtes",
+        "C": "Überwachtes Lernen benötigt keine Algorithmen",
+        "D": "Es gibt keinen wesentlichen Unterschied"
+      },
+      "correct_answers": ["A"],
+      "category": "Machine Learning",
+      "explanation": "Überwachtes Lernen verwendet Daten mit bekannten Ausgaben (Labels), während unüberwachtes Lernen Muster in nicht-gelabelten Daten findet.",
+      "category_sayings": [
+        "Machine Learning - wo Maschinen das Lernen lernen!",
+        "Algorithmen, die sich selbst verbessern? Das ist ML!",
+        "Hier wird aus Daten Wissen - echte Magie!"
+      ],
+      "theme_color": "#e74c3c"
+    },
+    {
+      "id": 7,
+      "question": "Welche der folgenden Technologien gehören zum Bereich Machine Learning?",
+      "type": "multiple_choice",
+      "options": {
+        "A": "Neuronale Netze zur Mustererkennung",
+        "B": "Entscheidungsbäume für Klassifikation",
+        "C": "Einfache Textverarbeitung",
+        "D": "Regression zur Vorhersage kontinuierlicher Werte"
+      },
+      "correct_answers": ["A", "B", "D"],
+      "category": "Machine Learning",
+      "explanation": "Neuronale Netze, Entscheidungsbäume und Regression sind zentrale ML-Technologien.",
+      "category_sayings": [
+        "Machine Learning - wo Maschinen das Lernen lernen!",
+        "Algorithmen, die sich selbst verbessern? Das ist ML!",
+        "Hier wird aus Daten Wissen - echte Magie!"
+      ],
+      "theme_color": "#e74c3c"
+    },
+    {
+      "id": 8,
+      "question": "Was ist ein Trainingsdatensatz?",
+      "type": "single_choice",
+      "options": {
+        "A": "Eine Sammlung von Daten zum Testen der finalen Anwendung",
+        "B": "Daten, die verwendet werden, um ein ML-Modell zu trainieren",
+        "C": "Eine Liste von Fehlern im System",
+        "D": "Hardware-Spezifikationen für ML-Computer"
+      },
+      "correct_answers": ["B"],
+      "category": "Machine Learning",
+      "explanation": "Der Trainingsdatensatz wird verwendet, um ML-Algorithmen zu trainieren und Muster zu erlernen.",
+      "category_sayings": [
+        "Machine Learning - wo Maschinen das Lernen lernen!",
+        "Algorithmen, die sich selbst verbessern? Das ist ML!",
+        "Hier wird aus Daten Wissen - echte Magie!"
+      ],
+      "theme_color": "#e74c3c"
+    },
+    {
+      "id": 9,
+      "question": "Was bedeutet 'Overfitting' in Machine Learning?",
+      "type": "single_choice",
+      "options": {
+        "A": "Das Modell ist zu einfach für die Aufgabe",
+        "B": "Das Modell lernt die Trainingsdaten zu genau und generalisiert schlecht",
+        "C": "Das Modell benötigt mehr Trainingszeit",
+        "D": "Das Modell hat zu wenige Parameter"
+      },
+      "correct_answers": ["B"],
+      "category": "Machine Learning",
+      "explanation": "Overfitting tritt auf, wenn ein Modell zu spezifisch auf Trainingsdaten angepasst wird und bei neuen Daten schlecht abschneidet.",
+      "category_sayings": [
+        "Machine Learning - wo Maschinen das Lernen lernen!",
+        "Algorithmen, die sich selbst verbessern? Das ist ML!",
+        "Hier wird aus Daten Wissen - echte Magie!"
+      ],
+      "theme_color": "#e74c3c"
+    },
+    {
+      "id": 10,
+      "question": "Was ist der Hauptzweck von Deep Learning?",
+      "type": "single_choice",
+      "options": {
+        "A": "Daten in einfachen Datenbanken zu speichern",
+        "B": "Komplexe Muster in großen Datenmengen zu erkennen und zu lernen",
+        "C": "E-Mails automatisch zu versenden",
+        "D": "Websites zu erstellen und zu designen"
+      },
+      "correct_answers": ["B"],
+      "category": "Deep Learning und Neuronale Netze",
+      "explanation": "Deep Learning nutzt mehrschichtige neuronale Netze, um komplexe Muster und Repräsentationen in Daten zu erlernen.",
+      "category_sayings": [
+        "Deep Learning - tief in die Geheimnisse der KI!",
+        "Neuronale Netze ahmen das Gehirn nach - faszinierend!",
+        "Hier entstehen die intelligentesten Algorithmen!"
+      ],
+      "theme_color": "#9b59b6"
+    },
+    {
+      "id": 11,
+      "question": "Welche Algorithmen werden häufig in der Bilderkennung eingesetzt?",
+      "type": "multiple_choice",
+      "options": {
+        "A": "Convolutional Neural Networks (CNN)",
+        "B": "Lineare Regression",
+        "C": "Support Vector Machines (SVM)",
+        "D": "Random Forest"
+      },
+      "correct_answers": ["A", "C"],
+      "category": "Deep Learning und Neuronale Netze",
+      "explanation": "CNNs sind speziell für Bilddaten entwickelt, SVMs können auch für Bildklassifikation verwendet werden.",
+      "category_sayings": [
+        "Deep Learning - tief in die Geheimnisse der KI!",
+        "Neuronale Netze ahmen das Gehirn nach - faszinierend!",
+        "Hier entstehen die intelligentesten Algorithmen!"
+      ],
+      "theme_color": "#9b59b6"
+    },
+    {
+      "id": 12,
+      "question": "Was ist ein Neuron in einem künstlichen neuronalen Netz?",
+      "type": "single_choice",
+      "options": {
+        "A": "Ein physischer Chip im Computer",
+        "B": "Eine mathematische Funktion, die Eingaben verarbeitet und eine Ausgabe produziert",
+        "C": "Eine Datenbank für Trainingsdaten",
+        "D": "Ein Softwareprogramm zur Textverarbeitung"
+      },
+      "correct_answers": ["B"],
+      "category": "Deep Learning und Neuronale Netze",
+      "explanation": "Ein künstliches Neuron ist eine mathematische Funktion, die gewichtete Eingaben summiert und durch eine Aktivierungsfunktion transformiert.",
+      "category_sayings": [
+        "Deep Learning - tief in die Geheimnisse der KI!",
+        "Neuronale Netze ahmen das Gehirn nach - faszinierend!",
+        "Hier entstehen die intelligentesten Algorithmen!"
+      ],
+      "theme_color": "#9b59b6"
+    },
+    {
+      "id": 13,
+      "question": "Was sind die Hauptkomponenten eines Convolutional Neural Networks?",
+      "type": "multiple_choice",
+      "options": {
+        "A": "Convolutional Layer für Merkmalserkennung",
+        "B": "Pooling Layer zur Dimensionsreduktion",
+        "C": "Fully Connected Layer für finale Klassifikation",
+        "D": "Nur einfache lineare Funktionen"
+      },
+      "correct_answers": ["A", "B", "C"],
+      "category": "Deep Learning und Neuronale Netze",
+      "explanation": "CNNs bestehen typischerweise aus Convolutional Layern, Pooling Layern und Fully Connected Layern.",
+      "category_sayings": [
+        "Deep Learning - tief in die Geheimnisse der KI!",
+        "Neuronale Netze ahmen das Gehirn nach - faszinierend!",
+        "Hier entstehen die intelligentesten Algorithmen!"
+      ],
+      "theme_color": "#9b59b6"
+    },
+    {
+      "id": 14,
+      "question": "Was ist Natural Language Processing (NLP)?",
+      "type": "single_choice",
+      "options": {
+        "A": "Eine Methode zur Hardwareoptimierung",
+        "B": "Ein Bereich der KI, der sich mit der Verarbeitung menschlicher Sprache beschäftigt",
+        "C": "Ein Datenbankformat für Textdaten",
+        "D": "Eine Programmiersprache für KI-Anwendungen"
+      },
+      "correct_answers": ["B"],
+      "category": "KI-Anwendungen und Praxis",
+      "explanation": "NLP ermöglicht es Computern, menschliche Sprache zu verstehen, zu interpretieren und zu generieren.",
+      "category_sayings": [
+        "Hier wird KI zur Realität - echte Anwendungen!",
+        "Von der Theorie zur Praxis - KI im Einsatz!",
+        "Sehen Sie, wie KI unser Leben verändert!"
+      ],
+      "theme_color": "#f39c12"
+    },
+    {
+      "id": 15,
+      "question": "Welche Anwendungsbereiche hat Künstliche Intelligenz heute?",
+      "type": "multiple_choice",
+      "options": {
+        "A": "Autonomes Fahren und Verkehrsmanagement",
+        "B": "Medizinische Diagnose und Bildanalyse",
+        "C": "Nur wissenschaftliche Forschung",
+        "D": "Spracherkennung und -übersetzung"
+      },
+      "correct_answers": ["A", "B", "D"],
+      "category": "KI-Anwendungen und Praxis",
+      "explanation": "KI wird heute in vielen praktischen Bereichen eingesetzt, von Mobilität über Medizin bis zur Sprachverarbeitung.",
+      "category_sayings": [
+        "Hier wird KI zur Realität - echte Anwendungen!",
+        "Von der Theorie zur Praxis - KI im Einsatz!",
+        "Sehen Sie, wie KI unser Leben verändert!"
+      ],
+      "theme_color": "#f39c12"
+    },
+    {
+      "id": 16,
+      "question": "Was sind Chatbots und wie funktionieren sie?",
+      "type": "single_choice",
+      "options": {
+        "A": "Physische Roboter für den Kundenservice",
+        "B": "KI-Systeme, die menschliche Gespräche simulieren und auf Anfragen antworten",
+        "C": "Einfache vorprogrammierte Antwortdatenbanken",
+        "D": "Hardware-Komponenten für Spracherkennung"
+      },
+      "correct_answers": ["B"],
+      "category": "KI-Anwendungen und Praxis",
+      "explanation": "Chatbots nutzen NLP und ML, um menschliche Anfragen zu verstehen und kontextbezogene Antworten zu generieren.",
+      "category_sayings": [
+        "Hier wird KI zur Realität - echte Anwendungen!",
+        "Von der Theorie zur Praxis - KI im Einsatz!",
+        "Sehen Sie, wie KI unser Leben verändert!"
+      ],
+      "theme_color": "#f39c12"
+    },
+    {
+      "id": 17,
+      "question": "Wie funktioniert Bilderkennung mit KI?",
+      "type": "single_choice",
+      "options": {
+        "A": "Durch einfache Pixelvergleiche",
+        "B": "Durch Analyse von Mustern und Merkmalen in Bildern mit neuronalen Netzen",
+        "C": "Nur durch menschliche Eingabe und Klassifikation",
+        "D": "Durch Speicherung aller möglichen Bilder in einer Datenbank"
+      },
+      "correct_answers": ["B"],
+      "category": "KI-Anwendungen und Praxis",
+      "explanation": "Moderne Bilderkennung nutzt Deep Learning, um hierarchische Merkmale und Muster in Bildern zu erkennen.",
+      "category_sayings": [
+        "Hier wird KI zur Realität - echte Anwendungen!",
+        "Von der Theorie zur Praxis - KI im Einsatz!",
+        "Sehen Sie, wie KI unser Leben verändert!"
+      ],
+      "theme_color": "#f39c12"
+    },
+    {
+      "id": 18,
+      "question": "Welche Herausforderungen bestehen bei der KI-Entwicklung?",
+      "type": "multiple_choice",
+      "options": {
+        "A": "Ethische Bedenken bezüglich automatisierter Entscheidungen",
+        "B": "Bedarf an großen Datenmengen für das Training",
+        "C": "Keine technischen Schwierigkeiten",
+        "D": "Transparenz und Erklärbarkeit von KI-Entscheidungen"
+      },
+      "correct_answers": ["A", "B", "D"],
+      "category": "Ethik und Herausforderungen",
+      "explanation": "KI-Entwicklung bringt ethische, technische und gesellschaftliche Herausforderungen mit sich.",
+      "category_sayings": [
+        "Ethik in der KI - eine der wichtigsten Diskussionen!",
+        "Mit großer KI-Macht kommt große Verantwortung!",
+        "Hier diskutieren wir die Zukunft der Menschheit!"
+      ],
+      "theme_color": "#34495e"
+    },
+    {
+      "id": 19,
+      "question": "Was versteht man unter 'Bias' in KI-Systemen?",
+      "type": "single_choice",
+      "options": {
+        "A": "Die Geschwindigkeit der Datenverarbeitung",
+        "B": "Systematische Verzerrungen oder Vorurteile in den Daten oder Algorithmen",
+        "C": "Die Anzahl der Parameter in einem Modell",
+        "D": "Die Hardware-Anforderungen des Systems"
+      },
+      "correct_answers": ["B"],
+      "category": "Ethik und Herausforderungen",
+      "explanation": "Bias bezeichnet systematische Verzerrungen, die zu unfairen oder diskriminierenden Ergebnissen führen können.",
+      "category_sayings": [
+        "Ethik in der KI - eine der wichtigsten Diskussionen!",
+        "Mit großer KI-Macht kommt große Verantwortung!",
+        "Hier diskutieren wir die Zukunft der Menschheit!"
+      ],
+      "theme_color": "#34495e"
+    },
+    {
+      "id": 20,
+      "question": "Warum ist Transparenz in KI-Systemen wichtig?",
+      "type": "single_choice",
+      "options": {
+        "A": "Um die Verarbeitungsgeschwindigkeit zu erhöhen",
+        "B": "Um Vertrauen zu schaffen und Entscheidungen nachvollziehbar zu machen",
+        "C": "Um Speicherplatz zu sparen",
+        "D": "Um die Entwicklungskosten zu senken"
+      },
+      "correct_answers": ["B"],
+      "category": "Ethik und Herausforderungen",
+      "explanation": "Transparenz ermöglicht es, KI-Entscheidungen zu verstehen, zu überprüfen und Verantwortung zu übernehmen.",
+      "category_sayings": [
+        "Ethik in der KI - eine der wichtigsten Diskussionen!",
+        "Mit großer KI-Macht kommt große Verantwortung!",
+        "Hier diskutieren wir die Zukunft der Menschheit!"
+      ],
+      "theme_color": "#34495e"
+    },
+    {
+      "id": 21,
+      "question": "Was sind potenzielle Risiken von KI in der Gesellschaft?",
+      "type": "multiple_choice",
+      "options": {
+        "A": "Arbeitsplätze könnten durch Automatisierung bedroht werden",
+        "B": "Überwachung und Verlust der Privatsphäre",
+        "C": "KI ist vollkommen risikofrei",
+        "D": "Möglichkeit autonomer Waffensysteme"
+      },
+      "correct_answers": ["A", "B", "D"],
+      "category": "Ethik und Herausforderungen",
+      "explanation": "KI bringt gesellschaftliche Herausforderungen wie Arbeitsplatzwandel, Datenschutz und Sicherheitsrisiken mit sich.",
+      "category_sayings": [
+        "Ethik in der KI - eine der wichtigsten Diskussionen!",
+        "Mit großer KI-Macht kommt große Verantwortung!",
+        "Hier diskutieren wir die Zukunft der Menschheit!"
+      ],
+      "theme_color": "#34495e"
+    },
+    {
+      "id": 22,
+      "question": "Was sind aktuelle Trends in der KI-Forschung?",
+      "type": "multiple_choice",
+      "options": {
+        "A": "Generative KI und große Sprachmodelle",
+        "B": "Quantencomputing für KI-Anwendungen",
+        "C": "Rückkehr zu einfachsten Algorithmen",
+        "D": "Explainable AI (XAI) für bessere Nachvollziehbarkeit"
+      },
+      "correct_answers": ["A", "B", "D"],
+      "category": "Zukunft und Trends",
+      "explanation": "Aktuelle Trends umfassen generative Modelle, Quantencomputing-Integration und erklärbare KI-Systeme.",
+      "category_sayings": [
+        "Ein Blick in die Zukunft - was kommt als nächstes?",
+        "Trends und Visionen - die KI von morgen!",
+        "Hier diskutieren wir die nächste Revolution!"
+      ],
+      "theme_color": "#16a085"
+    },
+    {
+      "id": 23,
+      "question": "Was ist Generative KI?",
+      "type": "single_choice",
+      "options": {
+        "A": "KI, die nur Daten analysiert",
+        "B": "KI, die neue Inhalte wie Text, Bilder oder Code erstellen kann",
+        "C": "KI, die nur Entscheidungen trifft",
+        "D": "KI, die ausschließlich für Spiele entwickelt wird"
+      },
+      "correct_answers": ["B"],
+      "category": "Zukunft und Trends",
+      "explanation": "Generative KI kann neue, originale Inhalte in verschiedenen Formaten erstellen, basierend auf gelernten Mustern.",
+      "category_sayings": [
+        "Ein Blick in die Zukunft - was kommt als nächstes?",
+        "Trends und Visionen - die KI von morgen!",
+        "Hier diskutieren wir die nächste Revolution!"
+      ],
+      "theme_color": "#16a085"
+    },
+    {
+      "id": 24,
+      "question": "Wie könnte Quantencomputing die KI verändern?",
+      "type": "single_choice",
+      "options": {
+        "A": "Es würde KI vollständig ersetzen",
+        "B": "Es könnte bestimmte ML-Berechnungen exponentiell beschleunigen",
+        "C": "Es hätte keinen Einfluss auf KI",
+        "D": "Es würde KI weniger genau machen"
+      },
+      "correct_answers": ["B"],
+      "category": "Zukunft und Trends",
+      "explanation": "Quantencomputing könnte bei speziellen Problemen wie Optimierung und bestimmten ML-Algorithmen dramatische Geschwindigkeitsvorteile bieten.",
+      "category_sayings": [
+        "Ein Blick in die Zukunft - was kommt als nächstes?",
+        "Trends und Visionen - die KI von morgen!",
+        "Hier diskutieren wir die nächste Revolution!"
+      ],
+      "theme_color": "#16a085"
+    },
+    {
+      "id": 25,
+      "question": "Was versteht man unter 'Edge AI'?",
+      "type": "single_choice",
+      "options": {
+        "A": "KI, die nur in Rechenzentren läuft",
+        "B": "KI-Verarbeitung direkt auf lokalen Geräten statt in der Cloud",
+        "C": "KI, die nur für Grenzkontrollen verwendet wird",
+        "D": "KI mit scharfen, kantigen Benutzeroberflächen"
+      },
+      "correct_answers": ["B"],
+      "category": "Zukunft und Trends",
+      "explanation": "Edge AI bringt KI-Verarbeitung näher zum Nutzer und reduziert Latenz und Abhängigkeit von Cloud-Diensten.",
+      "category_sayings": [
+        "Ein Blick in die Zukunft - was kommt als nächstes?",
+        "Trends und Visionen - die KI von morgen!",
+        "Hier diskutieren wir die nächste Revolution!"
+      ],
+      "theme_color": "#16a085"
+    }
+  ]
+}

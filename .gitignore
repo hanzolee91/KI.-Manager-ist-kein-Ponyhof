@@ -1,0 +1,19 @@
+# Temporäre Dateien
+*.tmp
+*.temp
+convert_questions.js
+full_quiz_converter.js
+new_ki_fragen_komplett.json
+converted_output.json
+
+# Backup-spezifische Dateien
+backup_*.zip
+
+# System-Dateien
+.DS_Store
+Thumbs.db
+
+# Editor-Dateien
+*.swp
+*.swo
+*~
