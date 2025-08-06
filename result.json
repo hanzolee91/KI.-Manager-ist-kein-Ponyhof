@@ -1,0 +1,1903 @@
+[
+  {
+    "id": 1,
+    "type": "Multiple-Choice",
+    "question": "Welche der folgenden Aussagen beschreibt die OECD-Deﬁnition von Künstlicher Intelligenz? (1+)",
+    "options": [
+      "Die Fähigkeit einer Maschine, menschliche Fähigkeiten wie logisches Denken, Lernen, Planen und Kreativität zu imitieren.",
+      "Ein System, das autonom arbeitet und keine menschliche Kontrolle benötigt.",
+      "Eine Technologie, die Maschinen erlaubt, aus Erfahrungen zu lernen.",
+      "KI-Systeme können ihre Umwelt wahrnehmen und mit dieser interagieren, um bestimmte Ziele zu erreichen."
+    ],
+    "correct_answers": [
+      "A",
+      "D"
+    ]
+  },
+  {
+    "id": 2,
+    "type": "Multiple-Choice",
+    "question": "Was versteht man unter \"Machine Learning\" (ML)? (1+)",
+    "options": [
+      "Eine Methode, die es Maschinen erlaubt, ohne menschliche Anleitung zu lernen.",
+      "Das Trainieren eines Computers, um große Datenmengen zu analysieren und Muster zu erkennen.",
+      "Ein System, das ausschließlich auf vorgegebenen Regeln basiert.",
+      "Ein K-Teilbereich, der es ermöglicht, sich an neue Daten anzupassen und die Leistung zu verbessern."
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "D"
+    ]
+  },
+  {
+    "id": 3,
+    "type": "Multiple-Choice",
+    "question": "Welche Eigenschaften zeichnen eine Künstliche Intelligenz aus? (1+)",
+    "options": [
+      "Anpassungsfähigkeit",
+      "Starrheit und Unveränderlichkeit",
+      "Interaktivität",
+      "Kontextbewusstsein und Kommunikationsfähigkeit"
+    ],
+    "correct_answers": [
+      "A",
+      "C",
+      "D"
+    ]
+  },
+  {
+    "id": 4,
+    "type": "Multiple-Choice",
+    "question": "Was ist der Unterschied zwischen \"theoriebasierter KI\" und \"datengetriebener KI\"? (1+)",
+    "options": [
+      "Theoriebasierte KI basiert auf festgelegten Regeln und Algorithmen.",
+      "Datengetriebene KI lernt aus großen Datenmengen.",
+      "Theoriebasierte KI nutzt immer neuronale Netze.",
+      "Datengetriebene KI basiert auf der Nutzung großer Datenmengen zur Mustererkennung."
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "D"
+    ]
+  },
+  {
+    "id": 5,
+    "type": "Multiple-Choice",
+    "question": "Welche der folgenden Aussagen beschreibt maschinelles Lernen (ML)? (1+)",
+    "options": [
+      "Maschinelles Lernen verwendet Algorithmen, um aus Daten zu lernen und Vorhersagen zu treﬀen.",
+      "Maschinelles Lernen basiert auf der Fähigkeit, sich selbst zu verbessern.",
+      "Maschinelles Lernen ist eine KI-Methode, die es Maschinen ermöglicht, Erfahrungen zu nutzen, um ihre Leistung zu optimieren.",
+      "Maschinelles Lernen ist identisch mit klassischer Programmierung."
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "id": 6,
+    "type": "Multiple-Choice",
+    "question": "Was ist der Zweck eines neuronalen Netzwerks im Kontext von KI? (1+)",
+    "options": [
+      "Es speichert große Datenmengen für die Verarbeitung.",
+      "Es hilft der KI, Daten in Schichten zu verarbeiten und Muster zu erkennen.",
+      "Es verwendet mehrere verbundene Knoten (Neuronen), um komplexe Muster zu lernen.",
+      "Es ist ein Hardwaregerät, das nur zur Speicherung von Informationen dient."
+    ],
+    "correct_answers": [
+      "B",
+      "C"
+    ]
+  },
+  {
+    "id": 7,
+    "type": "Multiple-Choice",
+    "question": "Was ist der Unterschied zwischen schwacher und starker KI? (1+)",
+    "options": [
+      "Starke KI ist für speziﬁsche Aufgaben entwickelt, während schwache KI menschenähnlich lernen kann.",
+      "Schwache KI nutzt keine Datenanalyse, während starke KI auf maschinellem Lernen basiert.",
+      "Schwache KI ist für speziﬁsche Aufgaben entwickelt, während starke KI menschenähnlich lernen kann.",
+      "Starke KI kann eigenständig kreative Problemlösungen ﬁnden."
+    ],
+    "correct_answers": [
+      "C",
+      "D"
+    ]
+  },
+  {
+    "id": 8,
+    "type": "Multiple-Choice",
+    "question": "Welche der folgenden Merkmale sind typisch für ein KI-System? (1+)",
+    "options": [
+      "Es kann nur vorgegebene Aufgaben ohne Abweichungen ausführen.",
+      "Es arbeitet immer unter menschlicher Aufsicht.",
+      "Es kann autonom arbeiten und sich an neue Daten anpassen.",
+      "Es kann eigene Entscheidungen basierend auf vorherigen Erfahrungen treﬀen."
+    ],
+    "correct_answers": [
+      "C",
+      "D"
+    ]
+  },
+  {
+    "id": 9,
+    "type": "Multiple-Choice",
+    "question": "Was versteht man unter der Anpassungsfähigkeit von KI? (1+)",
+    "options": [
+      "Die Fähigkeit der KI, sich an neue Eingaben und Anforderungen anzupassen.",
+      "Die Fähigkeit der KI, ohne menschliche Anleitung zu lernen.",
+      "Die Fähigkeit, die Leistung durch maschinelles Lernen zu verbessern.",
+      "Die Fähigkeit, Aufgaben immer auf die gleiche Weise auszuführen."
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "id": 10,
+    "type": "Multiple-Choice",
+    "question": "Was beschreibt der Begriﬀ \"Deep Learning\"? (1+)",
+    "options": [
+      "Eine spezielle Art von maschinellem Lernen, das auf mehrschichtige neuronale Netze zurückgreift.",
+      "Eine Technik, die darauf abzielt, komplexe Muster in großen Datenmengen zu erkennen.",
+      "Eine Methode, die zur Mustererkennung und Sprachverarbeitung eingesetzt wird.",
+      "Ein einfacher Algorithmus zur Vorhersage"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "id": 11,
+    "type": "Multiple-Choice",
+    "question": "Was sind die Ziele einer Künstlichen Intelligenz (KI)? (1+)",
+    "options": [
+      "Automatisierung von Routinetätigkeiten, um die Eﬃzienz zu steigern.",
+      "Verbesserung der Entscheidungsﬁndung basierend auf großen Datenmengen.",
+      "Vollständige Kontrolle über alle menschlichen Aktivtäten zu übernehmen.",
+      "Ersetzung menschlicher Arbeitskräfte in allen Bereichen."
+    ],
+    "correct_answers": [
+      "A",
+      "B"
+    ]
+  },
+  {
+    "id": 12,
+    "type": "Single-Choice",
+    "question": "Was ist ChatGPT? (1+)",
+    "options": [
+      "Ein KI-Modell, das zur Textgenerierung auf Basis von menschlichen Eingaben verwendet wird.",
+      "Eine App zur Textbearbeitung ohne KI-Funktionalität.",
+      "Ein rein regelbasiertes System zur Erstellung von Texten.",
+      "Eine KI, die ausschließlich für Kundensupport-Chatbots entwickelt wurde."
+    ],
+    "correct_answers": [
+      "A"
+    ]
+  },
+  {
+    "id": 13,
+    "type": "Single-Choice",
+    "question": "Was versteht man unter \"Natural Language Processing\" (NLP)? (1+)",
+    "options": [
+      "Eine Methode, um natürliche Sprache zu verstehen und zu generieren.",
+      "Eine Technologie, die verwendet wird, um Bilder zu generieren.",
+      "Eine Technik zur Vorhersage von Börsendaten.",
+      "Eine Strategie zur Optimierung von neuronalen Netzwerken."
+    ],
+    "correct_answers": [
+      "A"
+    ]
+  },
+  {
+    "id": 14,
+    "type": "Single-Choice",
+    "question": "Was ist einer der größten Herausforderungen beim Einsatz von KI-Modellen wie ChatGPT? (1+)",
+    "options": [
+      "Die Schwierigkeit, dass KI-Systeme keine natürlichen Sprachen vollständig verstehen können.",
+      "Die Modelle können keine Texte generieren.",
+      "Die Modelle sind darauf ausgelegt, nur einfache Fragen zu beantworten und sind bei komplexen Themen unsicher.",
+      "Die Modelle können auf falsche Informationen zurückgreifen und diese als richtig präsentieren."
+    ],
+    "correct_answers": [
+      "D"
+    ]
+  },
+  {
+    "id": 15,
+    "type": "Single-Choice",
+    "question": "Welches der folgenden Beispiele zeigt den Einsatz von Künstlicher Intelligenz (KI)? (1+)",
+    "options": [
+      "Ein Papierkalendar, der zur Organisation von Terminen verwendet wird.",
+      "Ein Haushaltsroboter, der mit Kameras Objekte erkennt und Staubsaugen automatisch durchführt.",
+      "Eine manuelle Schreibmaschine, die mechanisch Buchstaben auf Papier tippt.",
+      "Ein einfacher Taschenrechner, der mathematische Berechnungen durchführt."
+    ],
+    "correct_answers": [
+      "B"
+    ]
+  },
+  {
+    "id": 16,
+    "type": "Multiple-Choice",
+    "question": "Welche der folgenden Ziele verfolgt die KI-Verordnung? (1+)",
+    "options": [
+      "Förderung der Innovation und technologischen Entwicklung in der EU.",
+      "Verbot der Nutzung von maschinellem Lernen.",
+      "Sicherstellung eines hohen Schutzes für Gesundheit und Sicherheit.",
+      "Ausschließliche Nutzung von KI-Systemen im Industriesektor."
+    ],
+    "correct_answers": [
+      "A",
+      "C"
+    ]
+  },
+  {
+    "id": 17,
+    "type": "Multiple-Choice",
+    "question": "Für wen gilt unter anderem die KI-Verordnung? (1+)",
+    "options": [
+      "Anbieter, die in der EU KI-Systeme in Verkehr bringen oder in Betrieb nehmen.",
+      "Betreiber, die in der EU ansässig sind oder sich in der EU niederlassen.",
+      "Anbieter in Drittstaaten, die KI-Systeme ausschließlich für militärische Zwecke verwenden.",
+      "Forschungsinstitute, die KI-Systeme nur für wissenschaftliche Zwecke entwickeln."
+    ],
+    "correct_answers": [
+      "A",
+      "B"
+    ]
+  },
+  {
+    "id": 18,
+    "type": "Multiple-Choice",
+    "question": "Wer gilt als Anbieter eines KI-Systems? (1+)",
+    "options": [
+      "Eine natürliche oder juristische Person, die ein KI-System entwickelt oder entwickeln lässt.",
+      "Eine Person, die ein KI-System nur privat in der EU verwendet.",
+      "Eine Behörde, die ein KI-System zu internen Verwaltungszwecken einsetzt.",
+      "Eine Person, die ein KI-System unter ihrem eigenen Namen oder ihrer Handelsmarke auf dem Markt bereitstellt."
+    ],
+    "correct_answers": [
+      "A",
+      "D"
+    ]
+  },
+  {
+    "id": 19,
+    "type": "Multiple-Choice",
+    "question": "Welche Maßnahmen müssen Anbieter und Betreiber von KI-Systemen ergreifen, um die KI- Kompetenz zu gewährleisten? (1+)",
+    "options": [
+      "Die Ausbildung so gestalten, dass sie die individuellen Kenntnisse und den Kontext der KI- Verwendung berücksichtigt.",
+      "Technische Schulungen ohne Berücksichtigung des Kontextes der KI-Verwendung anbieten.",
+      "Keine Verpﬂichtung zur Schulung, da die Nutzung von KI-Systemen selbsterklärend ist.",
+      "Sicherstellen, dass alle Personen, die mit KI-Systemen arbeiten, ausreichend ausgebildet und geschult werden."
+    ],
+    "correct_answers": [
+      "A",
+      "D"
+    ]
+  },
+  {
+    "id": 20,
+    "type": "Multiple-Choice",
+    "question": "Welche der folgenden Praktiken sind im Zusammenhang mit KI-Systemen verboten? (1+)",
+    "options": [
+      "Das Ausnutzen von Schwächen besonders schutzbedürftiger Personen oder Gruppen, um eine Schädigung zu bewirken.",
+      "Das Erstellen von Datenbanken zur Gesichtserkennung durch massenhafte Scraping aus öﬀentlich zugänglichen Quellen im Internet.",
+      "Die Bewertung des Sozialverhaltens einer Person (Social Scoring) mit unverhältnismäßigen Folgen für diese Person.",
+      "Die Verwendung von biometrischen Echtzeit-Fernkennungssystemen in öﬀentlich zugänglichen Räumen, wenn diese ausschließlich zur Identiﬁkation von verdächtigen Personen verwendet werden."
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "id": 21,
+    "type": "Multiple-Choice",
+    "question": "Welche Kriterien bestimmen, ob ein KI-System als Hochrisiko-System eingestuft wird? (1+)",
+    "options": [
+      "Das System verwendet ausschließlich Open-Source-Daten.",
+      "Das System wird in kritischen Infrastrukturen eingesetzt",
+      "Das System hat potenziell große Auswirkungen auf die Gesundheit von Nutzern.",
+      "Das System basiert auf Machine Learning"
+    ],
+    "correct_answers": [
+      "B",
+      "C"
+    ]
+  },
+  {
+    "id": 22,
+    "type": "Multiple-Choice",
+    "question": "Welche Hauptziele verfolgt die EU-KI-Verordnung? (1+)",
+    "options": [
+      "Förderung der Innovation und technologischen Entwicklung in der EU.",
+      "Sicherstellung eines hohen Schutzes der Gesundheit und Sicherheit.",
+      "Sicherstellung der exklusiven Nutzung von KI-Systemen in europäischen Märkten.",
+      "Ausschließliche Nutzung von KI-Systemen im Industriebereich."
+    ],
+    "correct_answers": [
+      "A",
+      "B"
+    ]
+  },
+  {
+    "id": 23,
+    "type": "Multiple-Choice",
+    "question": "Welche Maßnahmen sind bei der Nutzung von biometrischen Echtzeit-Fernkennungssystemen notwendig? (1+)",
+    "options": [
+      "Genehmigung durch eine richterliche Instanz.",
+      "Registrierung bei der nationalen Datenschutzbehörde.",
+      "Überwachung durch menschliche Aufsicht.",
+      "Anonymisierung aller erfassten Daten."
+    ],
+    "correct_answers": [
+      "A",
+      "C"
+    ]
+  },
+  {
+    "id": 22,
+    "type": "Multiple-Choice",
+    "question": "Was bedeutet \"Social Scoring\" im Kontext der KI-Verordnung? (1+)",
+    "options": [
+      "Nutzung von KI zur Steigerung der sozialen Medienpräsenz.",
+      "Systematische Einstufung von Personen in soziale Kategorien.",
+      "Bewertung des Sozialverhaltens anhand gesammelter Daten.",
+      "Verpﬂichtende Nutzung von KI in sozialen Diensten"
+    ],
+    "correct_answers": [
+      "B",
+      "C"
+    ]
+  },
+  {
+    "id": 23,
+    "type": "Multiple-Choice",
+    "question": "Welche Anforderungen gibt es für die Transparenz von KI-Systemen? (1+)",
+    "options": [
+      "Das System muss alle Entscheidungen für die betroﬀenen Personen erklärbar machen.",
+      "Die Nutzer müssen über die Nutzung von KI informiert werden.",
+      "Es muss eine detaillierte Erklärung der Trainingsdaten veröﬀentlicht werden.",
+      "Die KI-Algorithmen müssen oﬀengelegt werden."
+    ],
+    "correct_answers": [
+      "A",
+      "B"
+    ]
+  },
+  {
+    "id": 24,
+    "type": "Single-Choice",
+    "question": "Welche Branche wird als besonders risikobehaftet angesehen, wenn es um den Einsatz von Hochrisiko-KI-Systemen geht? (1+)",
+    "options": [
+      "Einzelhandel",
+      "Gastronomie",
+      "Gesundheitswesen",
+      "Reisebüro"
+    ],
+    "correct_answers": [
+      "C"
+    ]
+  },
+  {
+    "id": 25,
+    "type": "Multiple-Choice",
+    "question": "Welche Rolle spielt die menschliche Aufsicht bei Hochrisiko-KI-Systemen? (1+)",
+    "options": [
+      "Sicherstellung, dass die Entscheidungen des Systems überprüft werden können.",
+      "Verpﬂichtung, das System alle 6 Monate abzuschalten.",
+      "Nur bei technischen Problemen erforderlich.",
+      "Kontrolle und Notfallübersteuerung des Systems bei Bedarf."
+    ],
+    "correct_answers": [
+      "A",
+      "D"
+    ]
+  },
+  {
+    "id": 26,
+    "type": "Multiple-Choice",
+    "question": "Was bedeutet \"Stand der Technik\"? (1+)",
+    "options": [
+      "Verpﬂichtung zur Nutzung der neuesten Technologie.",
+      "Stetige Weiterentwicklung der eingesetzten Algorithmen.",
+      "Orientierung an allgemein anerkannten Technologien.",
+      "Nutzung nur proprietärer Technologien."
+    ],
+    "correct_answers": [
+      "B",
+      "C"
+    ]
+  },
+  {
+    "id": 27,
+    "type": "Multiple-Choice",
+    "question": "Welche Sanktionen können bei Verstößen gegen die KI-Verordnung verhängt werden? (1+)",
+    "options": [
+      "Geldstrafen bis zu 35 Millionen Euro.",
+      "Geldstrafen bis zu 7 % des weltweiten Jahresumsatzes.",
+      "Verbot des Vertriebs des betroﬀenen KI-Systems.",
+      "Freiheitsstrafe für die Verantwortlichen."
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "id": 28,
+    "type": "Multiple-Choice",
+    "question": "Welche Maßnahmen können bei wiederholten Verstößen gegen die Vorschriften der KI- Verordnung ergriﬀen werden? (1+)",
+    "options": [
+      "Zwangsschließung des Unternehmens.",
+      "Verpﬂichtung zu Nachschulungen und Aufklärungsmaßnahmen.",
+      "Anordnung zur Überarbeitung des KI-Systems.",
+      "Öﬀentliches Bekanntmachen der Verstöße."
+    ],
+    "correct_answers": [
+      "B",
+      "C",
+      "D"
+    ]
+  },
+  {
+    "id": 29,
+    "type": "Multiple-Choice",
+    "question": "Welche Rechte haben Dritte im Zusammenhang mit der Nutzung von Hochrisiko-KI-Systemen? (1+)",
+    "options": [
+      "Recht auf Erklärung der Entscheidung bei betroﬀenen Personen.",
+      "Recht auf Beschwerde bei der Marktüberwachungsbehörde.",
+      "Recht auf Einsicht in die technische Dokumentation des KI-Systems.",
+      "Recht auf Entschädigung bei erlittenen Schäden durch das KI-System."
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "D"
+    ]
+  },
+  {
+    "id": 30,
+    "type": "Multiple-Choice",
+    "question": "Welche Pﬂichten haben die Mitgliedstaaten in Bezug auf die Einrichtung von nationalen Behörden? (1+)",
+    "options": [
+      "Benennung von mindestens einer notiﬁzierenden Behörde.",
+      "Benennung von mindestens zwei Marktüberwachungsbehörden.",
+      "Einrichtung einer zentralen Anlaufstelle für die Einhaltung der Vorschriften.",
+      "Einrichtung einer Behörde für die Bewertung von Datenschutzverstößen."
+    ],
+    "correct_answers": [
+      "A",
+      "C"
+    ]
+  },
+  {
+    "id": 31,
+    "type": "Multiple-Choice",
+    "question": "Welche Aufgaben hat die Marktüberwachungsbehörde? (1+)",
+    "options": [
+      "Kontrolle der Einhaltung der KI-Verordnung nach Markteinführung.",
+      "Verantwortung für die Überwachung der Nutzung von Hochrisiko-KI-Systemen.",
+      "Durchführung der ex-ante Konformitätsbewertung.",
+      "Unterstützung der Anbieter bei der Entwicklung von neuen KI-Systemen."
+    ],
+    "correct_answers": [
+      "A",
+      "B"
+    ]
+  },
+  {
+    "id": 32,
+    "type": "Multiple-Choice",
+    "question": "Welche Aufgaben und Ziele verfolgen KI-Reallabore? (1+)",
+    "options": [
+      "Bereitstellung von ﬁnanzieller Unterstützung für Start-ups.",
+      "Unterstützung bei der Marktüberwachung von Hochrisiko-KI-Systemen.",
+      "Durchführung von Tests zur Einhaltung der gesetzlichen Vorschriften.",
+      "Förderung der Forschung und Entwicklung neuer KI-Technologien."
+    ],
+    "correct_answers": [
+      "C",
+      "D"
+    ]
+  },
+  {
+    "id": 33,
+    "type": "Multiple-Choice",
+    "question": "Was müssen Anbieter von KI-Modellen mit allgemeinem Sicherheitsrisiko im Zusammenhang mit der Nutzung der Modelle berücksichtigen? (1+)",
+    "options": [
+      "Alle Sicherheitsrisiken im Zusammenhang mit dem Einsatz der Modelle zu identiﬁzieren.",
+      "Die Modelle regelmäßig an die Öﬀentlichkeit weiterzugeben",
+      "Die Entwicklung neuer Modelle ausschließlich unter Aufsicht einer Behörde durchzuführen.",
+      "Geeignete technische und organisatorische Maßnahmen zum Schutz der Nutzer zu ergreifen."
+    ],
+    "correct_answers": [
+      "A",
+      "D"
+    ]
+  },
+  {
+    "id": 34,
+    "type": "Multiple-Choice",
+    "question": "Welche Anforderungen gelten für die CE-Kennzeichnung von Hochrisiko-KI-Systemen? (1+)",
+    "options": [
+      "Die CE-Kennzeichnung muss gut sichtbar, leserlich und dauerhaft an Hochrisiko-KI-Systemen angebracht werden",
+      "Die Identiﬁzierungsnummer der für die Konformitätsbewertung zuständigen notiﬁzierten Stelle muss gegebenenfalls hinzugefügt werden.",
+      "Eine digitale CE-Kennzeichnung ist bei digitalen Hochrisiko-KI-Systemen nicht erlaubt.",
+      "Die CE-Kennzeichnung kann auch auf der Verpackung oder der beigefügten Dokumentation angebracht werden, wenn die Art des Systems dies nicht zulässt"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "D"
+    ]
+  },
+  {
+    "id": 34,
+    "type": "Multiple-Choice",
+    "question": "Welche Inhalte müssen in der Grundrechte-Folgenabschätzung für Hochrisiko-KI-Systeme enthalten sein? (1+)",
+    "options": [
+      "Beschreibung des Verfahrens zur Nutzung des Systems im Einklang mit seiner Zweckbestimmung.",
+      "Kategorien der betroﬀenen natürlichen Personen und Personengruppen.",
+      "Beschreibung der Maßnahmen zur menschlichen Aufsicht.",
+      "Beschreibung der Entwicklungsdauer des KI-Systems."
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "id": 35,
+    "type": "Multiple-Choice",
+    "question": "Welche Pﬂichten hat der Betreiber nach Durchführung der Grundrechte-Folgenabschätzung? (1+)",
+    "options": [
+      "Es ist keine weitere Maßnahme erforderlich, wenn die erste Verwendung abgeschlossen ist.",
+      "Die Ergebnisse müssen der Marktüberwachungsbehörde mitgeteilt werden.",
+      "Der Betreiber muss die Folgenabschätzung aktualisieren, wenn sich relevante Elemente ändern.",
+      "Die Ergebnisse müssen auf der Website des Unternehmens veröﬀentlicht werden."
+    ],
+    "correct_answers": [
+      "B",
+      "C"
+    ]
+  },
+  {
+    "id": 42,
+    "type": "Multiple-Choice",
+    "question": "Welche Maßnahmen gehören zu den Technisch-Organisatorischen Maßnahmen (TOMs) zur Risikominimierung? (1+)",
+    "options": [
+      "Implementierung von Zugangskontrollen",
+      "Schulungen für die Nutzer des KI-Systems",
+      "Veröﬀentlichung des gesamten Quellcodes",
+      "Datenverschlüsselung zur Risikominimierung"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "D"
+    ]
+  },
+  {
+    "id": 43,
+    "type": "Multiple-Choice",
+    "question": "Was ist das Hauptziel des Risikomanagements? (1+)",
+    "options": [
+      "Identiﬁkation und Bewertung potenzieller Risiken.",
+      "Qualitätssicherung und Erwartungsmanagement.",
+      "Vermeidung jeglicher gesetzlicher Vorgaben.",
+      "Maximierung des Geschäftswerts."
+    ],
+    "correct_answers": [
+      "A",
+      "B"
+    ]
+  },
+  {
+    "id": 44,
+    "type": "Multiple-Choice",
+    "question": "Welche Schritte gehören zur Risikoidentiﬁkation in KI-Projekten? (1+)",
+    "options": [
+      "Untersuchung des Anwendungsbereichs des Systems",
+      "Überprüfung des Algorithmus auf Bias",
+      "Identiﬁkation von möglichen rechtlichen Auswirkungen",
+      "Analyse der Projektkosten"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "id": 45,
+    "type": "Multiple-Choice",
+    "question": "Welche Risiken sind bei der Nutzung von KI-Systemen häuﬁg zu beachten? (1+)",
+    "options": [
+      "Erhöhte Genauigkeit und Zuverlässigkeit von Entscheidungen",
+      "Mangelnde Transparenz der Entscheidungsprozesse",
+      "Keine Notwendigkeit von menschlicher Überwachung",
+      "Verzerrungen und Diskriminierung durch unzureichende Trainingsdaten (Bias)"
+    ],
+    "correct_answers": [
+      "B",
+      "D"
+    ]
+  },
+  {
+    "id": 46,
+    "type": "Multiple-Choice",
+    "question": "Welche Maßnahmen sind sinnvoll, um Qualitätsmanagementsprozesse im Risikomanagement von KI-Systemen zu gewährleisten? (1+)",
+    "options": [
+      "Nutzung ausschließlich selbstentwickelter Algorithmen",
+      "Entwicklung eines umfassenden Testplans zur Validierung des Systems",
+      "Laufende Überprüfung der Relevanz und Aktualität der Daten",
+      "Ignorieren von Ausreißern in den Trainingsdaten"
+    ],
+    "correct_answers": [
+      "B",
+      "C"
+    ]
+  },
+  {
+    "id": 47,
+    "type": "Multiple-Choice",
+    "question": "Welche ethischen Prinzipien sind besonders wichtig bei der Entwicklung und Implementierung von KI-Systemen? (1+)",
+    "options": [
+      "Maximierung des Proﬁts ohne Rücksicht auf die Konsequenzen",
+      "Transparenz und Nachvollziehbarkeit",
+      "Nicht-Diskriminierung und Fairness",
+      "Einhaltung der Privatsphäre"
+    ],
+    "correct_answers": [
+      "B",
+      "C",
+      "D"
+    ]
+  },
+  {
+    "id": 48,
+    "type": "Multiple-Choice",
+    "question": "Welche Maßnahmen helfen, ethische Risiken in KI-Projekten zu minimieren? (1+)",
+    "options": [
+      "Automatisierter Entscheidungsprozess ohne menschliches Eingreifen",
+      "Durchführung von Bias-Tests und fairer Datenüberprüfung",
+      "Schulung der Entwickler in ethischen Grundsätzen",
+      "Reduktion der Datenqualität, um schnelle Ergebnisse zu erzielen"
+    ],
+    "correct_answers": [
+      "B",
+      "C"
+    ]
+  },
+  {
+    "id": 49,
+    "type": "Multiple-Choice",
+    "question": "Was sind ethische Herausforderungen beim Einsatz von KI im Bereich Personalwesen (HR)? (1+)",
+    "options": [
+      "Diskriminierung durch Verzerrungen in den Trainingsdaten",
+      "Verbesserung der Objektivität und Transparenz bei Entscheidungen",
+      "Automatisierte Entscheidungen ohne Beachtung des Datenschutzes",
+      "Vermeidung von subjektiven Entscheidungen durch KI"
+    ],
+    "correct_answers": [
+      "A",
+      "C"
+    ]
+  },
+  {
+    "id": 50,
+    "type": "Multiple-Choice",
+    "question": "Was sind Bestandteile eines eﬀektiven Risikomanagements für KI-Systeme? (1+)",
+    "options": [
+      "Identiﬁzierung und -analyse von Risiken",
+      "Ausschluss von Risikobetrachtungen bei agilen Entwicklungsansätzen",
+      "Regelmäßige Überwachung und Anpassung der Risikostrategien",
+      "Risikobewertung anhand von Eintrittswahrscheinlichkeit und Schwere der Konsequenzen"
+    ],
+    "correct_answers": [
+      "A",
+      "C",
+      "D"
+    ]
+  },
+  {
+    "id": 51,
+    "type": "Multiple-Choice",
+    "question": "Was sind Bestandteile eines eﬀektiven Risikomanagement-Prozesses für KI-Systeme? (1+)",
+    "options": [
+      "Risikodokumentation und -analyse.",
+      "Regelmäßige Überwachung und Anpassung der Risikostrategien.",
+      "Ausschluss von Risikobetrachtungen bei agilen Entwicklungsansätzen.",
+      "Förderung des Endbenutzers zur Nutzung des Systems."
+    ],
+    "correct_answers": [
+      "A",
+      "B"
+    ]
+  },
+  {
+    "id": 52,
+    "type": "Multiple-Choice",
+    "question": "Wie kann die Transparenz eines KI-Systems verbessert werden? (1+)",
+    "options": [
+      "Erstellung von Erklärungen zu den Entscheidungen des Systems.",
+      "Schulung der Endbenutzer zur Nutzung des Systems ohne jegliche Erklärungen",
+      "Dokumentation der verwendeten Trainingsdaten und Algorithmen.",
+      "Einsatz von Black Box Modellen zur Erhöhung der Genauigkeit ohne Berücksichtigung der Nachvollziehbarkeit."
+    ],
+    "correct_answers": [
+      "A",
+      "C"
+    ]
+  },
+  {
+    "id": 53,
+    "type": "Multiple-Choice",
+    "question": "Welche ethischen Fragen stellt die KI-Verordnung in Bezug auf die Nutzung von Hochrisiko-KI- Systemen? (1+)",
+    "options": [
+      "Die Verordnung verlangt ein angemessenes Maß an Genauigkeit, Robustheit und Cybersicherheit während des gesamten Lebenszykus.",
+      "Die Qualität der Datensätze soll sicherstellen, dass keine diskriminierenden Entscheidungen getroﬀen werden.",
+      "Es besteht die Verpﬂichtung zur Erhöhung der Proﬁtmaximierung des Unternehmens durch die KI- Implementierung.",
+      "Die Verordnung ermöglicht Betroﬀenen einen uneingeschränkten Zugang zu den Trainingsdaten der verwendeten KI."
+    ],
+    "correct_answers": [
+      "A",
+      "B"
+    ]
+  },
+  {
+    "id": 54,
+    "type": "Multiple-Choice",
+    "question": "Welche Risiken bestehen laut KI-Verordnung für die Durchsetzung der Antidiskriminierungsanforderungen? (1+)",
+    "options": [
+      "Die Unbestimmtheit der Anforderungen an die Qualität der Trainingsdaten kann die behördliche Überwachung erschweren.",
+      "Marktüberwachungsbehörden haben uneingeschränkten Zugang zum Quellcode, um Diskriminierungsursachen vollständig zu erkennen.",
+      "Es gibt Schwierigkeiten, die Einhaltung der Anforderungen an Datensätze zu überprüfen, da diese unzureichend präzisiert sind.",
+      "Es fehlen klar deﬁnierte Bewertungskriterien für „faire“ Daten."
+    ],
+    "correct_answers": [
+      "A",
+      "D"
+    ]
+  },
+  {
+    "id": 55,
+    "type": "Multiple-Choice",
+    "question": "Welche Kritikpunkte könnten bezüglich der Durchsetzung der KI-Verordnung vertretbar sein? (1+)",
+    "options": [
+      "Die Anforderungen an die Datenqualität sind unbestimmt, was zu einem Mangel an Rechtssicherheit führt.",
+      "Die Marktüberwachungsbehörden könnten mit der Durchsetzung der Anforderungen überfordert sein.",
+      "Die Verordnung stellt keine Anforderungen an die Transparenz der KI-Systeme.",
+      "Der Zugang zu relevanten Dokumenten ist den von Diskriminierung Betroﬀenen uneingeschränkt gestattet."
+    ],
+    "correct_answers": [
+      "A",
+      "B"
+    ]
+  },
+  {
+    "id": 56,
+    "type": "Multiple-Choice",
+    "question": "Welche Herausforderungen bestehen bei der Verhinderung mittelfeiner Diskriminierung durch Hochrisiko-KI-Systeme? (1+)",
+    "options": [
+      "Mittelfeiner Diskriminierung entsteht durch Stellvertreter-Variablen, die Korrelationen zu geschützten Merkmalen aufweisen.",
+      "Menschliche Entscheidungsträger können oft nicht erkennen, dass bestimmte Variablen Diskriminierung verursachen.",
+      "Die KI-Verordnung macht keine Vorgaben dazu, welche Art von Verzerrungen zu vermeiden sind.",
+      "Die KI-Verordnung verlangt, dass alle potenziell diskriminierenden Korrelationen entfernt werden."
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "id": 57,
+    "type": "Multiple-Choice",
+    "question": "Welche möglichen negativen Folgen könnten die umfangreichen bürokratischen Anforderungen für die europäische KI-Branche haben? (1+)",
+    "options": [
+      "Die strengen Regulierungen könnten den europäischen Binnenmarkt international schwächen, anstatt ihn zu stärken.",
+      "Das Mikromanagement der Datenverwaltung schränkt die Flexibilität zur Entscheidungsﬁndung im Einzelfall ein.",
+      "Die umfangreichen Anforderungen erleichtern kleinen und mittelständischen Unternehmen in der EU den Markteintritt.",
+      "Kleine und mittelständische Unternehmen in der EU könnten im internationalen Wettbewerb durch die hohen Compliance-Kosten benachteiligt werden."
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "D"
+    ]
+  },
+  {
+    "id": 58,
+    "type": "Multiple-Choice",
+    "question": "Welche wichtigen Schritte sind bei der Datenaufbereitung für maschinelles Lernen zu beachten? (1+)",
+    "options": [
+      "Anonymisierung der Daten, um den Datenschutz zu gewährleisten.",
+      "Überprüfung der Daten auf Vollständigkeit und Konsistenz.",
+      "Kategorisierung der Daten in sinnvolle Klassen.",
+      "Einsatz unsicherer Datenquellen zur Verbesserung der Vielfalt."
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "id": 61,
+    "type": "Multiple-Choice",
+    "question": "Was versteht man unter Datenaufbereitung im Kontext des Datenmanagements? (1+)",
+    "options": [
+      "Säubern, Transformieren und Umstrukturieren der Rohdaten, um sie für die Analyse nutzbar zu machen.",
+      "Verschlüsselung der Daten für die sichere Übertragung.",
+      "Einsatz von Daten ohne Anpassung an die Anforderungen eines Modells.",
+      "Erstellen von Duplikaten der Rohdaten zur Sicherstellung der Verfügbarkeit."
+    ],
+    "correct_answers": [
+      "A",
+      "B"
+    ]
+  },
+  {
+    "id": 62,
+    "type": "Multiple-Choice",
+    "question": "Welche potenziellen Risiken bestehen bei der Datenbeschaﬀung für KI-Systeme? (1+)",
+    "options": [
+      "Rechtliche Risiken bei der Nutzung von Daten ohne Einwilligung.",
+      "Die Gefahr, dass die verwendeten Daten Verzerrungen (Bias) enthalten.",
+      "Die Verwendung ausschließlich synthetischer Daten, um Kosten zu sparen.",
+      "Erhöhung der Datenqualität durch Integration vieler Quellen."
+    ],
+    "correct_answers": [
+      "A",
+      "B"
+    ]
+  },
+  {
+    "id": 63,
+    "type": "Multiple-Choice",
+    "question": "Welche Konsequenzen kann schlechte Datenqualität für KI-gestützte Systeme haben? (1+)",
+    "options": [
+      "Erhöhung der Rechenleistung und damit der Betriebskosten.",
+      "Verbesserung der Fairness der KI-Entscheidungen.",
+      "Verminderte Fähigkeit des Modells, aus den Daten zu lernen.",
+      "Fehlerhafte Ergebnisse der KI-Modelle."
+    ],
+    "correct_answers": [
+      "C",
+      "D"
+    ]
+  },
+  {
+    "id": 64,
+    "type": "Single-Choice",
+    "question": "Was versteht man unter Datenaufbereitung? (1+)",
+    "options": [
+      "Säubern, transformieren und umstrukturieren der Rohdaten, um sie für die Analyse nutzbar zu machen",
+      "Verschlüsselung der Daten für die sichere Übertragung",
+      "Einsatz von Daten ohne Anpassung an die Anforderungen des Modells",
+      "Erstellen von Duplikaten der Rohdaten zur Sicherstellung der Verfügbarkeit"
+    ],
+    "correct_answers": [
+      "A"
+    ]
+  },
+  {
+    "id": 65,
+    "type": "Multiple-Choice",
+    "question": "Welche Grundsätze sollten bei der Datenhaltung beachtet werden, um den Datenschutz zu gewährleisten? (1+)",
+    "options": [
+      "Speicherung aller verfügbaren Daten zur maximalen Nutzbarkeit.",
+      "Verschlüsselung von personenbezogenen Daten während der Speicherung.",
+      "Minimalprinzip: Es sollen nur die Daten gespeichert werden, die wirklich notwendig sind.",
+      "Alle Mitarbeitenden sollten Zugang zu sämtlichen Daten erhalten, um die Zusammenarbeit zu fördern."
+    ],
+    "correct_answers": [
+      "B",
+      "C"
+    ]
+  },
+  {
+    "id": 66,
+    "type": "Multiple-Choice",
+    "question": "Welche Risiken entstehen, wenn alle Prinzipien der verantwortungsvollen Datennutzung nicht eingehalten werden? (1+)",
+    "options": [
+      "Rechtliche Konsequenzen, wie Bußgelder und Sanktionen.",
+      "Verminderte Qualität und Geschwindigkeit der KI-Modelle.",
+      "Reduzierte Kosten für Datenverarbeitung und Speicherung.",
+      "Erhöhte Gefahr von Datenschutzverletzungen und Datenmissbrauch."
+    ],
+    "correct_answers": [
+      "A",
+      "D"
+    ]
+  },
+  {
+    "id": 67,
+    "type": "Multiple-Choice",
+    "question": "Welche Schritte sollten bei einem Datenschutzvorfall gemäß der DS-GVO beachtet werden? (1+)",
+    "options": [
+      "Ermittlung des Sachverhalts und Feststellung, ob personenbezogene Daten betroﬀen sind.",
+      "Einleitung von Gegenmaßnahmen, um weiteren Schaden zu verhindern.",
+      "Unverzügliche Durchführung der Löschung aller Daten, ohne Prüfung der Notwendigkeit.",
+      "Automatisierte Weitergabe des Vorfalls an alle Mitarbeitenden ohne Filter."
+    ],
+    "correct_answers": [
+      "A",
+      "B"
+    ]
+  },
+  {
+    "id": 68,
+    "type": "Multiple-Choice",
+    "question": "Welche Pﬂichten haben Verantwortliche bei einem Datenschutzvorfall? (1+)",
+    "options": [
+      "Schweigen über den Vorfall, um Imageschaden zu vermeiden.",
+      "Abwarten, bis eine externe Aufsichtsbehörde den Vorfall untersucht, bevor Maßnahmen ergriﬀen werden.",
+      "Benachrichtigung der betroﬀenen Personen bei hohem Risiko.",
+      "Meldung an die Aufsichtsbehörde innerhalb von 72 Stunden."
+    ],
+    "correct_answers": [
+      "C",
+      "D"
+    ]
+  },
+  {
+    "id": 69,
+    "type": "Multiple-Choice",
+    "question": "Was gehört zum Inhalt einer Meldung an die Aufsichtsbehörde im Falle eines Datenschutzvorfalls? (1+)",
+    "options": [
+      "Art der Verletzung und die wahrscheinlichen Folgen.",
+      "Name und Kontaktdaten des Datenschutzbeauftragten.",
+      "Beschreibung der Gegenmaßnahmen zur Behebung der Verletzung.",
+      "Information über die nächsten geplanten Marketingkampagnen des Unternehmens."
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "id": 70,
+    "type": "Single-Choice",
+    "question": "Welche der folgenden Maßnahmen ist wichtig für die Datenbeschaﬀung in einem KI-Projekt? (1+)",
+    "options": [
+      "Die Verwendung zutreﬀender Daten ohne Bezug zur Anwendung.",
+      "Beschaﬀung relevanter und repräsentativer Daten, die zum Anwendungsfall passen.",
+      "Verwendung nur von historischen Daten ohne Rücksicht auf Aktualität.",
+      "Keine Prüfung der Herkunft der Daten notwendig."
+    ],
+    "correct_answers": [
+      "B"
+    ]
+  },
+  {
+    "id": 71,
+    "type": "Single-Choice",
+    "question": "Welche Herausforderungen gibt es bei der Datenbeschaﬀung für KI-Projekte? (1+)",
+    "options": [
+      "Sicherstellung, dass die Daten gesetzeskonform gesammelt und verwendet werden.",
+      "Die einfache Zugänglichkeit aller benötigten Daten.",
+      "Die Erfassung von beliebigen Daten ohne Dokumentation.",
+      "Daten stehen immer ohne rechtliche Einschränkungen zur Verfügung."
+    ],
+    "correct_answers": [
+      "A"
+    ]
+  },
+  {
+    "id": 72,
+    "type": "Multiple-Choice",
+    "question": "Welche der folgenden Maßnahmen sind Teil eines Datenschutzmanagementsystems, das Unternehmen dabei unterstützt, ein datenschutzkonformes System zu gestalten? (1+)",
+    "options": [
+      "Festlegung von Geschäftsstrukturen basierend auf Umsatz.",
+      "Einbindung von Datenschutz in KI-Projekte.",
+      "Optimierung der Marketingstrategie.",
+      "Erstellung einer Datenschutz-Folgenabschätzung nach Art. 35 DSGVO."
+    ],
+    "correct_answers": [
+      "B",
+      "D"
+    ]
+  },
+  {
+    "id": 73,
+    "type": "Single-Choice",
+    "question": "Was beschreibt eine gängige Herausforderung bei der Zusammenstellung von Trainingsdatensätzen für KI? (1+)",
+    "options": [
+      "Die Anonymisierung von personenbezogenen Daten kann technisch anspruchsvoll sein.",
+      "Relevante Daten sind immer frei im Internet verfügbar.",
+      "Daten aus sozialen Netzwerken sind immer repräsentativ für die Gesamtbevölkerung.",
+      "Es gibt keine rechtlichen Einschränkungen für die Verwendung von Trainingsdaten."
+    ],
+    "correct_answers": [
+      "A"
+    ]
+  },
+  {
+    "id": 74,
+    "type": "Single-Choice",
+    "question": "Welche der folgenden Schritte ist wichtig, um die Qualität von Trainingsdaten für ein KI-Modell zu gewährleisten? (1+)",
+    "options": [
+      "Sicherstellung, dass die Daten die gesamte Zielpopulation repräsentieren.",
+      "Maximierung der Datenmenge, ohne auf die Qualität zu achten.",
+      "Verwendung von veralteten Daten, die in einem bestimmten Zeitraum gesammelt wurden.",
+      "Beschränkung auf Daten aus einer einzigen Quelle, um Konsistenz zu gewährleisten."
+    ],
+    "correct_answers": [
+      "A"
+    ]
+  },
+  {
+    "id": 75,
+    "type": "Single-Choice",
+    "question": "Was ist eine wichtige Maßnahme, um Verzerrungen (Bias) in Trainingsdaten zu vermeiden? (1+)",
+    "options": [
+      "Sicherstellen, dass die Daten eine ausgewogene Anzahl von Beispielen für alle relevanten Klassen enthalten.",
+      "Verwendung nur von Daten, die aus anonymisierten Quellen stammen.",
+      "Priorisierung von Daten aus großen, unstrukturierten Datenbanken.",
+      "Fokussierung auf Daten, die aus einer bestimmten geograﬁschen Region stammen."
+    ],
+    "correct_answers": [
+      "A"
+    ]
+  },
+  {
+    "id": 76,
+    "type": "Multiple-Choice",
+    "question": "Welche der folgenden Maßnahmen tragen zur Gewährleistung der Datensicherheit in einem Unternehmen bei? (1+)",
+    "options": [
+      "Verschlüsselung sensibler Daten während der Speicherung und Übertragung.",
+      "Keine Verwendung von Firewalls oder anderen Sicherheitstools.",
+      "Implementierung von Zugriﬀsrechten, um den Datenzugriﬀ nur autorisierten Nutzern zu ermöglichen.",
+      "Regelmäßige Sicherheitsüberprüfungen und Updates der verwendeten Systeme."
+    ],
+    "correct_answers": [
+      "A",
+      "C",
+      "D"
+    ]
+  },
+  {
+    "id": 77,
+    "type": "Single-Choice",
+    "question": "Was ist ein häuﬁger Fehler bei der Integration von Daten aus verschiedenen Quellen? (1+)",
+    "options": [
+      "Sicherstellung, dass alle Daten korrekt formatiert und normalisiert sind.",
+      "Unzureichende Berücksichtigung von Unterschieden in der Datenqualität.",
+      "Vermeidung der Datenanonymisierung zur besseren Nutzung der Daten.",
+      "Verwendung nur einer Quelle, um Konsistenz zu gewährleisten."
+    ],
+    "correct_answers": [
+      "B"
+    ]
+  },
+  {
+    "id": 78,
+    "type": "Single-Choice",
+    "question": "Welche Herausforderungen können beim Umgang mit unstrukturierten Daten auftreten? (1+)",
+    "options": [
+      "Die einfache und schnelle Verarbeitung, da keine spezielle Struktur notwendig ist.",
+      "Schwierigkeit bei der Identiﬁzierung und Extraktion relevanter Informationen.",
+      "Unstrukturierte Daten sind immer von hoher Qualität und zuverlässig.",
+      "Unstrukturierte Daten erfordern keine speziellen Techniken zur Analyse."
+    ],
+    "correct_answers": [
+      "B"
+    ]
+  },
+  {
+    "id": 79,
+    "type": "Multiple-Choice",
+    "question": "Welche Datenarten sind besonders wichtig, wenn man die Fairness von KI-Modellen sicherstellen möchte? (1+)",
+    "options": [
+      "Daten, die eine breite und diverse Repräsentation aller betroﬀenen Gruppen enthalten.",
+      "Daten, die ausschließlich von einer einzigen Quelle oder Region stammen, um Konsistenz zu gewährleisten.",
+      "Daten, die potenziell Verzerrungen (Bias) enthalten, um diese im Modell zu identiﬁzieren und zu korrigieren.",
+      "Daten, die unstrukturiert und schwer zu analysieren sind, da sie das Modell herausfordern."
+    ],
+    "correct_answers": [
+      "A",
+      "C"
+    ]
+  },
+  {
+    "id": 80,
+    "type": "Single-Choice",
+    "question": "Was ist ein Ziel der Datenverschlüsselung im Datenmanagement? (1+)",
+    "options": [
+      "Sicherstellen, dass die Daten während der Speicherung und Übertragung vor unbefugtem Zugriﬀ geschützt sind.",
+      "Erhöhung der Datenmenge durch Reduzierung der Dateigröße.",
+      "Optimierung der Daten für die Verarbeitung durch KI-Modelle.",
+      "Verbesserung der Datenqualität durch falsche Datenbereinigung."
+    ],
+    "correct_answers": [
+      "A"
+    ]
+  },
+  {
+    "id": 81,
+    "type": "Multiple-Choice",
+    "question": "Welche der folgenden Aussagen beschreibt am besten den Zweck des EU KI-Gesetzes? (1+)",
+    "options": [
+      "Sicherstellung der Sicherheit und des Vertrauens in KI-Systeme",
+      "Förderung von maschinellem Lernen in der EU",
+      "Verbesserung des Datenschutzes für KI-Anwendungen",
+      "Harmonisierung der KI-Vorschriften in den EU-Mitgliedstaaten"
+    ],
+    "correct_answers": [
+      "A",
+      "D"
+    ]
+  },
+  {
+    "id": 82,
+    "type": "Single-Choice",
+    "question": "Welche Institution ist für die Überwachung der Einhaltung des EU KI-Gesetzes zuständig? (1+)",
+    "options": [
+      "Europäische Kommission",
+      "Europäischer Datenschutzausschuss",
+      "Nationale Datenschutzbehörden",
+      "EU-AI-Aufsichtsstelle"
+    ],
+    "correct_answers": [
+      "A"
+    ]
+  },
+  {
+    "id": 83,
+    "type": "Multiple-Choice",
+    "question": "Welche der folgenden Anforderungen müssen Anbieter von Hochrisiko-KI-Systemen unter dem EU KI-Gesetz erfüllen? (1+)",
+    "options": [
+      "Regelmäßige Sicherheitsprüfungen und Risikomanagement",
+      "Bereitstellung einer vollständigen Risikoanalyse und Risikominimierung",
+      "Durchführung von Schulungen für alle Nutzer des Systems",
+      "Unabhängige Audits und Zertiﬁzierungen des Systems"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "D"
+    ]
+  },
+  {
+    "id": 84,
+    "type": "Multiple-Choice",
+    "question": "Welche KI-Systeme fallen unter die Kategorie \"Hochrisiko\" im Rahmen des EU KI-Gesetzes? (1+)",
+    "options": [
+      "Systeme, die in der Medizin zur Diagnose verwendet werden",
+      "Systeme, die in der Strafverfolgung eingesetzt werden",
+      "Systeme zur Kreditbewertung",
+      "Systeme, die in der Kunstproduktion verwendet werden"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "id": 85,
+    "type": "Multiple-Choice",
+    "question": "Welche der folgenden Maßnahmen sind erforderlich, um die Transparenz von KI-Systemen im Rahmen des EU KI-Gesetzes zu erhöhen? (1+)",
+    "options": [
+      "Dokumentation der Trainingsdaten und Entscheidungsprozesse",
+      "Bereitstellung einer umfassenden Benutzeroberﬂäche zur Überwachung des Systems",
+      "Veröﬀentlichung des Quellcodes aller verwendeten Algorithmen",
+      "Oﬀenlegung der verwendeten Datenquellen und Algorithmen"
+    ],
+    "correct_answers": [
+      "A",
+      "D"
+    ]
+  },
+  {
+    "id": 86,
+    "type": "Multiple-Choice",
+    "question": "Welche der folgenden Pﬂichten gelten für Betreiber von Hochrisiko-KI-Systemen im Einklang mit dem EU KI-Gesetz? (1+)",
+    "options": [
+      "Sicherstellung einer kontinuierlichen Überwachung und regelmäßiger Berichterstattung",
+      "Garantie, dass alle Mitarbeiter die KI-Systeme regelmäßig verwenden",
+      "Sicherstellung, dass das System regelmäßig aktualisiert wird, um neue Risiken zu minimieren",
+      "Aufrechterhaltung eines öﬀentlichen Registers aller KI-Modelle"
+    ],
+    "correct_answers": [
+      "A",
+      "C"
+    ]
+  },
+  {
+    "id": 87,
+    "type": "Multiple-Choice",
+    "question": "Welche der folgenden Maßnahmen sind unter dem EU KI-Gesetz für den Einsatz von KI in der Strafverfolgung erforderlich? (1+)",
+    "options": [
+      "Einführung von transparenten Verfahren zur Beurteilung der KI-Modelle",
+      "Verbot der Verwendung von KI bei der Verurteilung von Straftätern",
+      "Regelmäßige unabhängige Prüfungen der eingesetzten KI-Systeme",
+      "Verpﬂichtung zur anonymisierten Verarbeitung aller sensiblen Daten"
+    ],
+    "correct_answers": [
+      "A",
+      "C"
+    ]
+  },
+  {
+    "id": 88,
+    "type": "Multiple-Choice",
+    "question": "Welche der folgenden KI-Technologien müssen unter dem EU KI-Gesetz eine CE-Kennzeichnung erhalten? (1+)",
+    "options": [
+      "Biometrische Systeme zur Gesichtserkennung",
+      "Systeme zur automatisierten Entscheidung von Bewerbungen",
+      "Systeme, die in der Verkehrssteuerung eingesetzt werden",
+      "Systeme zur Echtzeit-Übersetzung von Sprache"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "id": 89,
+    "type": "Multiple-Choice",
+    "question": "Welche der folgenden Aussagen zur Haftung unter dem EU KI-Gesetz ist korrekt? (1+)",
+    "options": [
+      "Anbieter von KI-Systemen haften nicht für Fehler, die durch Nutzer des Systems verursacht werden",
+      "Der Hersteller eines KI-Systems haftet für alle durch das System verursachten Schäden",
+      "Nutzer von KI-Systemen sind nur für Schäden haftbar, wenn sie gegen die Vorschriften verstoßen",
+      "Haftung kann auf den Betreiber des Systems übertragen werden, wenn dieser das System verändert"
+    ],
+    "correct_answers": [
+      "B",
+      "D"
+    ]
+  },
+  {
+    "id": 90,
+    "type": "Multiple-Choice",
+    "question": "Was sind die Hauptziele des EU KI-Gesetzes? (1+)",
+    "options": [
+      "Förderung des Wettbewerbs im KI-Markt",
+      "Minimierung der Risiken, die mit dem Einsatz von KI-Systemen verbunden sind",
+      "Sicherstellung der Nutzung von KI in sicherheitsrelevanten Bereichen",
+      "Förderung der Forschung und Entwicklung von KI-Technologien"
+    ],
+    "correct_answers": [
+      "B",
+      "C"
+    ]
+  },
+  {
+    "id": 91,
+    "type": "Multiple-Choice",
+    "question": "Welche Rolle spielt der \"Human-in-the-loop\"-Ansatz im EU KI-Gesetz? (1+)",
+    "options": [
+      "Der Ansatz ist nur bei hochriskanten KI-Anwendungen erforderlich",
+      "Der Mensch muss eine Überwachungs- oder Entscheidungsrolle bei KI-gestützten Systemen übernehmen",
+      "Der Ansatz gilt nur für KI-Systeme, die autonom arbeiten",
+      "Der Mensch ist für die Kontrolle und Bewertung von KI-Entscheidungen verantwortlich"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "D"
+    ]
+  },
+  {
+    "id": 92,
+    "type": "Multiple-Choice",
+    "question": "Welche der folgenden Aussagen zum Thema Datenschutz und KI unter dem EU KI-Gesetz ist korrekt? (1+)",
+    "options": [
+      "KI-Systeme dürfen keine persönlichen Daten verwenden, es sei denn, sie wurden anonymisiert",
+      "KI-Systeme müssen sicherstellen, dass alle personenbezogenen Daten nur mit ausdrücklicher Zustimmung verarbeitet werden",
+      "Alle Daten, die von KI-Systemen verarbeitet werden, müssen in der EU gespeichert werden",
+      "Unternehmen müssen ein Datenschutzmanagementsystem für KI-Systeme implementieren"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "D"
+    ]
+  },
+  {
+    "id": 93,
+    "type": "Multiple-Choice",
+    "question": "Was sind die wichtigsten Anforderungen für Transparenz und Nachvollziehbarkeit im EU KI- Gesetz? (1+)",
+    "options": [
+      "Die Dokumentation aller verwendeten Algorithmen und Daten",
+      "Die regelmäßige Veröﬀentlichung der systematischen Bewertungen von KI-Systemen",
+      "Die Bereitstellung von Echtzeit-Überwachungsdaten für alle Nutzer",
+      "Die Sicherstellung, dass alle Entscheidungen von KI-Systemen erklärt werden können"
+    ],
+    "correct_answers": [
+      "A",
+      "D"
+    ]
+  },
+  {
+    "id": 94,
+    "type": "Multiple-Choice",
+    "question": "Welche Sanktionsmaßnahmen sind im EU KI-Gesetz vorgesehen? (1+)",
+    "options": [
+      "Geldstrafen für Unternehmen, die gegen die KI-Vorschriften verstoßen",
+      "Einschränkung der Marktverfügbarkeit von hochriskanten KI-Systemen",
+      "Veröﬀentlichung der Namen der Unternehmen, die gegen das Gesetz verstoßen haben",
+      "Verbot der Entwicklung und des Einsatzes bestimmter KI-Systeme"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "id": 95,
+    "type": "Multiple-Choice",
+    "question": "Welche der folgenden KI-Systeme müssen unter dem EU KI-Gesetz als \"kritisch\" eingestuft werden? (1+)",
+    "options": [
+      "KI-Systeme, die in der medizinischen Diagnose verwendet werden",
+      "Systeme zur automatisierten Überwachung von Arbeitsplätzen",
+      "Systeme zur Finanzmarktregulierung",
+      "Systeme zur Steuerung von Verkehrsinfrastrukturen"
+    ],
+    "correct_answers": [
+      "A",
+      "C",
+      "D"
+    ]
+  },
+  {
+    "id": 96,
+    "type": "Single-Choice",
+    "question": "Was versteht man unter \"risikoabhängiger Regulierung\" im EU KI-Gesetz? (1+)",
+    "options": [
+      "Je höher das Risiko eines KI-Systems, desto strenger sind die Anforderungen",
+      "Alle KI-Systeme müssen denselben regulatorischen Anforderungen entsprechen",
+      "KI-Systeme, die weniger riskant sind, benötigen keine regulatorische Aufsicht",
+      "Alle KI-Systeme müssen nach denselben ethischen Richtlinien entwickelt werden"
+    ],
+    "correct_answers": [
+      "A"
+    ]
+  },
+  {
+    "id": 97,
+    "type": "Multiple-Choice",
+    "question": "Welche der folgenden Anforderungen gelten für KI-gestützte Entscheidungen im EU KI-Gesetz? (1+)",
+    "options": [
+      "KI-Systeme müssen jederzeit erklärbar sein",
+      "Alle Entscheidungen, die auf KI basieren, müssen von einem Menschen überprüft werden",
+      "KI-Systeme müssen in der Lage sein, ihre Entscheidungen transparent zu machen",
+      "Es muss ein System zur Kontrolle von KI-Fehlern existieren"
+    ],
+    "correct_answers": [
+      "A",
+      "C",
+      "D"
+    ]
+  },
+  {
+    "id": 98,
+    "type": "Multiple-Choice",
+    "question": "Welche der folgenden KI-Systeme unterliegen den höchsten Anforderungen unter dem EU KI- Gesetz? (1+)",
+    "options": [
+      "Systeme zur automatisierten Kreditvergabe",
+      "Systeme zur Gesichtserkennung in öﬀentlichen Räumen",
+      "Systeme, die in der medizinischen Forschung verwendet werden",
+      "Systeme zur Überwachung von Mitarbeitern"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "D"
+    ]
+  },
+  {
+    "id": 99,
+    "type": "Multiple-Choice",
+    "question": "Welche der folgenden Maßnahmen werden von KI-Anbietern im Rahmen des EU KI-Gesetzes erwartet? (1+)",
+    "options": [
+      "Durchführung von Transparenzanalysen",
+      "Erstellung eines Risikomanagementplans",
+      "Oﬀenlegung der Entwicklungsprozesse für das KI-System",
+      "Sicherstellung der Datenanonymisierung"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "id": 100,
+    "type": "Multiple-Choice",
+    "question": "Welche der folgenden Pﬂichten müssen Betreiber von KI-Systemen erfüllen? (1+)",
+    "options": [
+      "Sicherstellung einer vollständigen Dokumentation der systemischen Entscheidungen",
+      "Regelmäßige Audits zur Sicherstellung der Datensicherheit",
+      "Bereitstellung einer Nutzeroberﬂäche zur Überprüfung der KI-Entscheidungen",
+      "Implementierung einer ständigen Überwachung und Berichterstattung"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "D"
+    ]
+  },
+  {
+    "id": 101,
+    "type": "Multiple-Choice",
+    "question": "Welche der folgenden KI-Anwendungen müssen unter dem EU KI-Gesetz als \"kritisch\" betrachtet werden? (1+)",
+    "options": [
+      "KI zur Überwachung von öﬀentlichen Plätzen",
+      "KI zur Vorhersage von Krankheitsausbrüchen",
+      "KI zur Empfehlung von Finanzinvestitionen",
+      "KI zur automatisierten Bewertung von Bewerbungen"
+    ],
+    "correct_answers": [
+      "A",
+      "C",
+      "D"
+    ]
+  },
+  {
+    "id": 102,
+    "type": "Multiple-Choice",
+    "question": "Welche der folgenden Anforderungen gelten für KI-Systeme in sicherheitskritischen Bereichen? (1+)",
+    "options": [
+      "Regelmäßige Updates und Wartung zur Risikominderung",
+      "Verpﬂichtung zur Oﬀenlegung aller Datenquellen",
+      "Durchführung regelmäßiger unabhängiger Audits",
+      "Sicherstellung der menschlichen Überwachung in Entscheidungsprozessen"
+    ],
+    "correct_answers": [
+      "A",
+      "C",
+      "D"
+    ]
+  },
+  {
+    "id": 103,
+    "type": "Multiple-Choice",
+    "question": "Welches Ziel verfolgt das EU KI-Gesetz im Hinblick auf Transparenz? (1+)",
+    "options": [
+      "Verbesserung der Verständlichkeit und Nachvollziehbarkeit von KI-Entscheidungen",
+      "Förderung der Geheimhaltung von Algorithmen",
+      "Sicherstellung einer vollständigen Oﬀenlegung aller verwendeten Trainingsdaten",
+      "Schaﬀung eines transparenten Rahmens für die Entwicklung von KI-Systemen"
+    ],
+    "correct_answers": [
+      "A",
+      "D"
+    ]
+  },
+  {
+    "id": 104,
+    "type": "Multiple-Choice",
+    "question": "Welche Rechte müssen Nutzer von Hochrisiko-KI-Systemen unter dem EU KI-Gesetz haben? (1+)",
+    "options": [
+      "Das Recht, die KI-Entscheidungen anzufechten",
+      "Das Recht auf vollständige Anonymität bei der Nutzung",
+      "Das Recht auf Zugang zu den Entscheidungsprozessen des Systems",
+      "Das Recht, alle gespeicherten Daten zu löschen"
+    ],
+    "correct_answers": [
+      "A",
+      "C"
+    ]
+  },
+  {
+    "id": 105,
+    "type": "Multiple-Choice",
+    "question": "Welche der folgenden Maßnahmen sind von KI-Anbietern im Hinblick auf Risikomanagement erforderlich? (1+)",
+    "options": [
+      "Erstellung eines Risikomanagementplans",
+      "Durchführung von regelmäßigen Risikoanalysen",
+      "Implementierung von Maßnahmen zur Risikominderung",
+      "Ausschluss von Risikobetrachtungen, wenn das System die Anforderungen erfüllt"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "id": 106,
+    "type": "Multiple-Choice",
+    "question": "Welche der folgenden Anforderungen an KI-Systeme im Bereich der öﬀentlichen Sicherheit sind unter dem EU KI-Gesetz zu erfüllen? (1+)",
+    "options": [
+      "Sicherstellung einer transparenten Systemarchitektur",
+      "Bereitstellung einer vollständigen Oﬀenlegung aller Algorithmen",
+      "Verpﬂichtung zur Überprüfung der KI-Entscheidungen durch einen Menschen",
+      "Regelmäßige Prüfungen der KI-Modelle auf mögliche Verzerrungen"
+    ],
+    "correct_answers": [
+      "A",
+      "C",
+      "D"
+    ]
+  },
+  {
+    "id": 107,
+    "type": "Multiple-Choice",
+    "question": "Wie müssen KI-Anbieter unter dem EU KI-Gesetz sicherstellen, dass ihre Systeme diskriminierungsfrei arbeiten? (1+)",
+    "options": [
+      "Durch regelmäßige Schulungen der Nutzer",
+      "Durch die Implementierung von Mechanismen zur Erkennung und Minderung von Bias",
+      "Durch die Oﬀenlegung der zugrunde liegenden Algorithmen",
+      "Durch die Durchführung von Audits, um die Fairness zu gewährleisten"
+    ],
+    "correct_answers": [
+      "B",
+      "D"
+    ]
+  },
+  {
+    "id": 108,
+    "type": "Multiple-Choice",
+    "question": "Welche der folgenden Anforderungen gelten für die Dokumentation von KI-Systemen? (1+)",
+    "options": [
+      "Die Dokumentation muss vollständig öﬀentlich zugänglich sein",
+      "Die Dokumentation muss Informationen zu Trainingsdaten und Algorithmen enthalten",
+      "Es müssen regelmäßig aktualisierte Berichte über den Betrieb des Systems bereitgestellt werden",
+      "Die Dokumentation muss eine vollständige Risikoanalyse und Risikominderungsstrategie umfassen"
+    ],
+    "correct_answers": [
+      "B",
+      "C",
+      "D"
+    ]
+  },
+  {
+    "id": 109,
+    "type": "Multiple-Choice",
+    "question": "Welche der folgenden Maßnahmen sind notwendig, um den Datenschutz bei KI-Systemen zu gewährleisten? (1+)",
+    "options": [
+      "Alle Daten müssen anonymisiert werden, bevor sie verarbeitet werden",
+      "Die Datenverarbeitung muss transparent und nachvollziehbar sein",
+      "Es müssen Mechanismen zur Minimierung der Datensammlung implementiert werden",
+      "Alle gespeicherten Daten müssen nach 5 Jahren automatisch gelöscht werden"
+    ],
+    "correct_answers": [
+      "B",
+      "C"
+    ]
+  },
+  {
+    "id": 110,
+    "type": "Multiple-Choice",
+    "question": "Welche der folgenden Verantwortlichkeiten haben Betreiber von Hochrisiko-KI-Systemen unter dem EU KI-Gesetz? (1+)",
+    "options": [
+      "Sicherstellung der kontinuierlichen Überwachung des KI-Systems",
+      "Regelmäßige Aktualisierung der Algorithmen",
+      "Bereitstellung einer detaillierten Benutzeroberﬂäche für die Kontrolle des Systems",
+      "Gewährleistung der vollständigen Datenspeicherung in der EU"
+    ],
+    "correct_answers": [
+      "A",
+      "B"
+    ]
+  },
+  {
+    "id": 111,
+    "type": "Multiple-Choice",
+    "question": "Welche der folgenden Aktivitäten unterliegt einer besonderen Überprüfung durch den EU-AI- Ausschuss? (1+)",
+    "options": [
+      "Der Einsatz von KI im militärischen Bereich",
+      "Die Entwicklung neuer KI-Algorithmen für die Geschäftsanalyse",
+      "Der Einsatz von KI zur Strafverfolgung",
+      "Die Nutzung von KI zur Automatisierung von Verwaltungsaufgaben"
+    ],
+    "correct_answers": [
+      "A",
+      "C"
+    ]
+  },
+  {
+    "id": 112,
+    "type": "Multiple-Choice",
+    "question": "Was wird im EU KI-Gesetz unter dem Begriﬀ „Hochrisiko-KI-Systeme“ verstanden? (1+)",
+    "options": [
+      "KI-Systeme, die in sicherheitskritischen Bereichen eingesetzt werden",
+      "KI-Systeme, die in der medizinischen Forschung verwendet werden",
+      "KI-Systeme, die zum Zweck der Marktregulierung eingesetzt werden",
+      "KI-Systeme, die zur Vorhersage von zukünftigen ﬁnanziellen Trends verwendet werden"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "id": 113,
+    "type": "Multiple-Choice",
+    "question": "Welche der folgenden Maßnahmen gelten als nicht zulässig unter dem EU KI-Gesetz? (1+)",
+    "options": [
+      "Der Einsatz von KI zur Erkennung von politischer Gesinnung",
+      "Die Nutzung von KI für die Steuerung von öﬀentlichen Verkehrsmitteln",
+      "Die Anwendung von KI zur Überwachung von öﬀentlichen Versammlungen",
+      "Der Einsatz von KI für die Risikoanalyse in der Unternehmensﬁnanzierung"
+    ],
+    "correct_answers": [
+      "A",
+      "C"
+    ]
+  },
+  {
+    "id": 114,
+    "type": "Multiple-Choice",
+    "question": "Welche der folgenden Verantwortlichkeiten hat der Anbieter eines Hochrisiko-KI-Systems? (1+)",
+    "options": [
+      "Durchführung von Audits zur Sicherstellung der Qualität des KI-Systems",
+      "Gewährleistung der menschlichen Überwachung von KI-Entscheidungen",
+      "Sicherstellung der kontinuierlichen Datenverarbeitung",
+      "Bereitstellung eines klaren Notfallplans für Systemfehler"
+    ],
+    "correct_answers": [
+      "A",
+      "B"
+    ]
+  },
+  {
+    "id": 115,
+    "type": "Multiple-Choice",
+    "question": "Welche Anforderungen werden für die CE-Kennzeichnung von KI-Systemen im Rahmen des EU KI-Gesetzes gestellt? (1+)",
+    "options": [
+      "Die KI-Systeme müssen alle relevanten rechtlichen Anforderungen erfüllen",
+      "Die KI-Systeme müssen transparent und nachvollziehbar sein",
+      "Die KI-Systeme müssen einen vollständigen Audit-Trail ermöglichen",
+      "Die KI-Systeme müssen nachweislich keine negativen Auswirkungen auf die Gesellschaft haben"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "id": 116,
+    "type": "Multiple-Choice",
+    "question": "Welche der folgenden Bedingungen müssen erfüllt sein, damit ein KI-System als „niedriges Risiko“ im EU KI-Gesetz eingestuft wird? (1+)",
+    "options": [
+      "Es darf keine kritischen Entscheidungen treﬀen",
+      "Es muss vollständig durch den Menschen überwacht werden",
+      "Es darf keine personenbezogenen Daten sammeln",
+      "Es muss nachweislich keine negativen Auswirkungen auf die Gesellschaft haben"
+    ],
+    "correct_answers": [
+      "A",
+      "D"
+    ]
+  },
+  {
+    "id": 117,
+    "type": "Multiple-Choice",
+    "question": "Wie wird der Begriﬀ „Bias“ im EU KI-Gesetz behandelt? (1+)",
+    "options": [
+      "Alle KI-Systeme müssen auf Bias geprüft und diese gegebenenfalls korrigiert werden",
+      "Bias in KI-Systemen ist erlaubt, solange keine schweren Konsequenzen auftreten",
+      "Bias muss durch transparente Datenquellen und Erklärbarkeit des Systems minimiert werden",
+      "Bias muss nur dann überprüft werden, wenn das System in der medizinischen Forschung eingesetzt wird"
+    ],
+    "correct_answers": [
+      "A",
+      "C"
+    ]
+  },
+  {
+    "id": 118,
+    "type": "Multiple-Choice",
+    "question": "Welche der folgenden Maßnahmen zur Risikominderung sind für KI-Anbieter erforderlich? (1+)",
+    "options": [
+      "Die Implementierung von Datenschutzbestimmungen",
+      "Die Einführung einer kontinuierlichen Schulung für Nutzer des Systems",
+      "Die regelmäßige Prüfung auf potenzielle Diskriminierungseﬀekte",
+      "Die Sicherstellung, dass alle KI-Modelle auf Bias untersucht werden"
+    ],
+    "correct_answers": [
+      "A",
+      "C",
+      "D"
+    ]
+  },
+  {
+    "id": 119,
+    "type": "Multiple-Choice",
+    "question": "Welche der folgenden Aussagen ist korrekt im Hinblick auf KI-Systeme und Datensicherheit unter dem EU KI-Gesetz? (1+)",
+    "options": [
+      "Alle Daten, die durch KI-Systeme verarbeitet werden, müssen verschlüsselt werden",
+      "KI-Systeme müssen regelmäßig auf Datenlecks überprüft werden",
+      "Die Datensicherheit muss jederzeit gewährleistet sein",
+      "Datensicherheitsprüfungen sind nur dann erforderlich, wenn das System personenbezogene Daten verarbeitet"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "id": 120,
+    "type": "Multiple-Choice",
+    "question": "Welche der folgenden Optionen ist eine der wichtigsten Anforderungen für den KI- Compliance-Prozess unter dem EU KI-Gesetz? (1+)",
+    "options": [
+      "Die Erstellung eines umfassenden Berichts über den gesamten KI-Lebenszyklus",
+      "Die kontinuierliche Schulung von Mitarbeitenden über die neuesten KI-Gesetze",
+      "Die Integration von KI-Modellen in die Unternehmenssoftware",
+      "Die Sicherstellung der vollständigen Automatisierung des Risikomanagementprozesses"
+    ],
+    "correct_answers": [
+      "A",
+      "B"
+    ]
+  },
+  {
+    "id": 121,
+    "type": "Multiple-Choice",
+    "question": "Welche der folgenden Methoden ist eine Form des überwachten Lernens? (1+)",
+    "options": [
+      "Lineare Regression",
+      "K-Means Clustering",
+      "Entscheidungsbaum",
+      "Reinforcement Learning"
+    ],
+    "correct_answers": [
+      "A",
+      "C"
+    ]
+  },
+  {
+    "id": 122,
+    "type": "Single-Choice",
+    "question": "Welche der folgenden Aussagen beschreibt am besten, was unter \"Deep Learning\" zu verstehen ist? (1+)",
+    "options": [
+      "Deep Learning ist eine Form des maschinellen Lernens, die auf sehr großen Datenmengen und tiefen neuronalen Netzwerken basiert",
+      "Deep Learning nutzt einfache mathematische Modelle zur Entscheidungsﬁndung",
+      "Deep Learning ist ausschließlich für die Verarbeitung von unstrukturierten Daten wie Text und Bildern geeignet",
+      "Deep Learning funktioniert am besten mit kleinen, speziﬁschen Datensätzen"
+    ],
+    "correct_answers": [
+      "A"
+    ]
+  },
+  {
+    "id": 123,
+    "type": "Multiple-Choice",
+    "question": "Welche der folgenden Technologien sind typische Anwendungen von maschinellem Lernen? (1+)",
+    "options": [
+      "Bilderkennung in der Medizin",
+      "Automatisierte Textübersetzung",
+      "Sicherheitszertiﬁkate in der Webentwicklung",
+      "Vorhersage von Kundennachfragen in der Logistik"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "D"
+    ]
+  },
+  {
+    "id": 124,
+    "type": "Single-Choice",
+    "question": "Was ist das Ziel von \"Überwachtem Lernen\" im Bereich des maschinellen Lernens? (1+)",
+    "options": [
+      "Das Modell wird auf Basis von gekennzeichneten Daten trainiert, um Vorhersagen zu treﬀen",
+      "Das Modell lernt aus unmarkierten Daten, um Muster zu erkennen",
+      "Das Modell wird so angepasst, dass es keine Daten verliert",
+      "Das Modell erlernt, durch Feedback die besten Entscheidungen zu treﬀen"
+    ],
+    "correct_answers": [
+      "A"
+    ]
+  },
+  {
+    "id": 125,
+    "type": "Multiple-Choice",
+    "question": "Welche der folgenden Aussagen beschreibt den Unterschied zwischen überwachten und unüberwachten Lernmethoden? (1+)",
+    "options": [
+      "Beim überwachten Lernen wird das Modell mit gelabelten Daten trainiert, beim unüberwachten Lernen ohne gelabelte Daten",
+      "Unüberwachtes Lernen wird nur verwendet, wenn Daten keine Struktur haben",
+      "Überwachtes Lernen benötigt keine menschliche Aufsicht, während unüberwachtes Lernen immer menschliche Eingriﬀe erfordert",
+      "Beim überwachten Lernen liegt eine klare Zielvariable vor, die das Modell lernen muss"
+    ],
+    "correct_answers": [
+      "A",
+      "D"
+    ]
+  },
+  {
+    "id": 126,
+    "type": "Multiple-Choice",
+    "question": "Welche der folgenden Datenarten eignen sich am besten für maschinelles Lernen? (1+)",
+    "options": [
+      "Unstrukturierte Daten wie Bilder und Text",
+      "Komplexe strukturierte Daten, die aus Tabellen bestehen",
+      "Daten, die keine Muster aufweisen",
+      "Zeitstempel-basierte Daten wie Logdateien"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "D"
+    ]
+  },
+  {
+    "id": 127,
+    "type": "Multiple-Choice",
+    "question": "Welche der folgenden Aussagen über neuronale Netzwerke sind korrekt? (1+)",
+    "options": [
+      "Neuronale Netzwerke sind besonders eﬀektiv bei der Erkennung von Mustern in großen Datenmengen",
+      "Neuronale Netzwerke erfordern keine Daten für das Training",
+      "Neuronale Netzwerke bestehen aus Schichten von Neuronen, die miteinander verbunden sind",
+      "Neuronale Netzwerke sind nur für die Bildverarbeitung geeignet"
+    ],
+    "correct_answers": [
+      "A",
+      "C"
+    ]
+  },
+  {
+    "id": 128,
+    "type": "Multiple-Choice",
+    "question": "Was sind typische Herausforderungen beim Einsatz von maschinellem Lernen in der Praxis? (1+)",
+    "options": [
+      "Daten sind oft unvollständig oder von schlechter Qualität",
+      "Modelle erfordern eine große Menge an markierten Trainingsdaten",
+      "Maschinelles Lernen ist immer schneller als traditionelle Algorithmen",
+      "Es ist schwierig, Modelle in einer realen Umgebung umzusetzen"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "D"
+    ]
+  },
+  {
+    "id": 129,
+    "type": "Multiple-Choice",
+    "question": "Welche der folgenden Technologien sind Teil von Machine Learning? (1+)",
+    "options": [
+      "Support Vector Machines (SVM)",
+      "Künstliche Intelligenz (KI)",
+      "Entscheidungsbäume",
+      "Blockchain-Technologie"
+    ],
+    "correct_answers": [
+      "A",
+      "C"
+    ]
+  },
+  {
+    "id": 130,
+    "type": "Multiple-Choice",
+    "question": "Welche der folgenden Anwendungsfälle gehören zu den typischen Einsatzbereichen von Reinforcement Learning? (1+)",
+    "options": [
+      "Spiele wie Schach und Go",
+      "Bildklassiﬁkation",
+      "Robotik und autonome Fahrzeuge",
+      "Textklassiﬁkation"
+    ],
+    "correct_answers": [
+      "A",
+      "C"
+    ]
+  }
+]

@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>KI-Manager Test</title>
+</head>
+<body>
+    <h1>Test</h1>
+    <p>Wenn Sie das sehen, funktioniert HTML.</p>
+    <button onclick="testJS()">Test JavaScript</button>
+    
+    <script>
+        console.log('HTML geladen');
+        
+        function testJS() {
+            console.log('JavaScript funktioniert');
+            alert('JavaScript funktioniert!');
+        }
+        
+        // Test der Fragenstruktur
+        const testQuestions = [
+            {
+                "id": 1,
+                "question": "Test Frage?",
+                "type": "single_choice",
+                "options": {
+                    "A": "Antwort A",
+                    "B": "Antwort B"
+                },
+                "correct_answers": ["A"],
+                "category": "Test",
+                "explanation": "Test Erklärung"
+            }
+        ];
+        
+        console.log('Test Fragen:', testQuestions);
+    </script>
+</body>
+</html>

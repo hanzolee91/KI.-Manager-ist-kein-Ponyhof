@@ -1,0 +1,325 @@
+[
+  {
+    "id": 1,
+    "type": "Multiple-Choice",
+    "question": "Welche der folgenden Aussagen beschreibt die OECD-Definition von Künstlicher Intelligenz? (1+)",
+    "options": [
+      "Die Fähigkeit einer Maschine, menschliche Fähigkeiten wie logisches Denken, Lernen, Planen und Kreativität zu imitieren.",
+      "Ein System, das autonom arbeitet und keine menschliche Kontrolle benötigt.",
+      "Eine Technologie, die Maschinen erlaubt, aus Erfahrungen zu lernen.",
+      "KI-Systeme können ihre Umwelt wahrnehmen und mit dieser interagieren, um bestimmte Ziele zu erreichen."
+    ],
+    "correct_answers": [
+      "A",
+      "D"
+    ],
+    "erklaerung": "Die OECD definiert KI als Systeme, die menschliche kognitive Fähigkeiten nachahmen und durch Wahrnehmung der Umgebung zielgerichtet handeln können. Diese Definition betont sowohl die Nachahmung menschlicher Intelligenz als auch die autonome Zielerreichung."
+  },
+  {
+    "id": 2,
+    "type": "Multiple-Choice",
+    "question": "Was versteht man unter \"Machine Learning\" (ML)? (1+)",
+    "options": [
+      "Eine Methode, die es Maschinen erlaubt, ohne menschliche Anleitung zu lernen.",
+      "Das Trainieren eines Computers, um große Datenmengen zu analysieren und Muster zu erkennen.",
+      "Ein System, das ausschließlich auf vorgegebenen Regeln basiert.",
+      "Ein K-Teilbereich, der es ermöglicht, sich an neue Daten anzupassen und die Leistung zu verbessern."
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "D"
+    ],
+    "erklaerung": "Machine Learning ermöglicht Computern, aus Daten zu lernen und ihre Leistung ohne explizite Programmierung zu verbessern. Es basiert auf der Mustererkennung in großen Datenmengen und kontinuierlicher Anpassung an neue Informationen."
+  },
+  {
+    "id": 3,
+    "type": "Multiple-Choice",
+    "question": "Welche Eigenschaften zeichnen eine Künstliche Intelligenz aus? (1+)",
+    "options": [
+      "Anpassungsfähigkeit",
+      "Starrheit und Unveränderlichkeit",
+      "Interaktivität",
+      "Kontextbewusstsein und Kommunikationsfähigkeit"
+    ],
+    "correct_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "erklaerung": "KI-Systeme zeichnen sich durch Flexibilität aus: Sie passen sich an neue Situationen an, interagieren mit ihrer Umgebung und verstehen Kontext. Starrheit ist das Gegenteil von intelligenten Systemen, die dynamisch reagieren müssen."
+  },
+  {
+    "id": 4,
+    "type": "Multiple-Choice",
+    "question": "Was ist der Unterschied zwischen \"theoriebasierter KI\" und \"datengetriebener KI\"? (1+)",
+    "options": [
+      "Theoriebasierte KI basiert auf festgelegten Regeln und Algorithmen.",
+      "Datengetriebene KI lernt aus großen Datenmengen.",
+      "Theoriebasierte KI nutzt immer neuronale Netze.",
+      "Datengetriebene KI basiert auf der Nutzung großer Datenmengen zur Mustererkennung."
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "D"
+    ],
+    "erklaerung": "Theoriebasierte KI arbeitet mit vordefinierten Regeln und Algorithmen, während datengetriebene KI Muster aus großen Datenmengen lernt. Beide Ansätze haben ihre Berechtigung - der eine ist explizit programmiert, der andere lernt implizit aus Daten."
+  },
+  {
+    "id": 5,
+    "type": "Multiple-Choice",
+    "question": "Welche der folgenden Aussagen beschreibt maschinelles Lernen (ML)? (1+)",
+    "options": [
+      "Maschinelles Lernen verwendet Algorithmen, um aus Daten zu lernen und Vorhersagen zu treffen.",
+      "Maschinelles Lernen basiert auf der Fähigkeit, sich selbst zu verbessern.",
+      "Maschinelles Lernen ist eine KI-Methode, die es Maschinen ermöglicht, Erfahrungen zu nutzen, um ihre Leistung zu optimieren.",
+      "Maschinelles Lernen ist identisch mit klassischer Programmierung."
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "C"
+    ],
+    "erklaerung": "ML unterscheidet sich von klassischer Programmierung durch seine Lernfähigkeit: Statt fest programmierte Regeln zu befolgen, entwickelt das System eigenständig Strategien aus Daten. Es verbessert kontinuierlich seine Vorhersagen durch Erfahrung."
+  },
+  {
+    "id": 6,
+    "type": "Multiple-Choice",
+    "question": "Was ist der Zweck eines neuronalen Netzwerks im Kontext von KI? (1+)",
+    "options": [
+      "Es speichert große Datenmengen für die Verarbeitung.",
+      "Es hilft der KI, Daten in Schichten zu verarbeiten und Muster zu erkennen.",
+      "Es verwendet mehrere verbundene Knoten (Neuronen), um komplexe Muster zu lernen.",
+      "Es ist ein Hardwaregerät, das nur zur Speicherung von Informationen dient."
+    ],
+    "correct_answers": [
+      "B",
+      "C"
+    ],
+    "erklaerung": "Neuronale Netzwerke ahmen die Struktur des menschlichen Gehirns nach: Viele miteinander verbundene Knoten (Neuronen) verarbeiten Informationen in Schichten. Dadurch können sie komplexe Muster erkennen, die für traditionelle Algorithmen zu schwierig wären."
+  },
+  {
+    "id": 7,
+    "type": "Multiple-Choice",
+    "question": "Was ist der Unterschied zwischen schwacher und starker KI? (1+)",
+    "options": [
+      "Starke KI ist für spezifische Aufgaben entwickelt, während schwache KI menschenähnlich lernen kann.",
+      "Schwache KI nutzt keine Datenanalyse, während starke KI auf maschinellem Lernen basiert.",
+      "Schwache KI ist für spezifische Aufgaben entwickelt, während starke KI menschenähnlich lernen kann.",
+      "Starke KI kann eigenständig kreative Problemlösungen finden."
+    ],
+    "correct_answers": [
+      "C",
+      "D"
+    ],
+    "erklaerung": "Schwache KI (Narrow AI) ist auf spezielle Aufgaben spezialisiert, wie Schachspielen oder Spracherkennung. Starke KI (General AI) hätte menschenähnliche allgemeine Intelligenz und könnte jede geistige Aufgabe bewältigen - existiert aber noch nicht."
+  },
+  {
+    "id": 8,
+    "type": "Multiple-Choice",
+    "question": "Welche der folgenden Merkmale sind typisch für ein KI-System? (1+)",
+    "options": [
+      "Es kann nur vorgegebene Aufgaben ohne Abweichungen ausführen.",
+      "Es arbeitet immer unter menschlicher Aufsicht.",
+      "Es kann autonom arbeiten und sich an neue Daten anpassen.",
+      "Es kann eigene Entscheidungen basierend auf vorherigen Erfahrungen treffen."
+    ],
+    "correct_answers": [
+      "C",
+      "D"
+    ],
+    "erklaerung": "KI-Systeme zeichnen sich durch Autonomie und Lernfähigkeit aus: Sie können selbstständig Entscheidungen treffen und sich an veränderte Bedingungen anpassen. Im Gegensatz zu starren Programmen lernen sie aus Erfahrungen und entwickeln neue Strategien."
+  },
+  {
+    "id": 9,
+    "type": "Multiple-Choice",
+    "question": "Was versteht man unter der Anpassungsfähigkeit von KI? (1+)",
+    "options": [
+      "Die Fähigkeit der KI, sich an neue Eingaben und Anforderungen anzupassen.",
+      "Die Fähigkeit der KI, ohne menschliche Anleitung zu lernen.",
+      "Die Fähigkeit, die Leistung durch maschinelles Lernen zu verbessern.",
+      "Die Fähigkeit, Aufgaben immer auf die gleiche Weise auszuführen."
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "C"
+    ],
+    "erklaerung": "KI-Anpassungsfähigkeit bedeutet Flexibilität: Das System kann auf neue Situationen reagieren, ohne menschliche Intervention lernen und seine Leistung kontinuierlich verbessern. Diese Eigenschaft unterscheidet KI von statischen Programmen, die immer gleich funktionieren."
+  },
+  {
+    "id": 10,
+    "type": "Multiple-Choice",
+    "question": "Was beschreibt der Begriff \"Deep Learning\"? (1+)",
+    "options": [
+      "Eine spezielle Art von maschinellem Lernen, das auf mehrschichtige neuronale Netze zurückgreift.",
+      "Eine Technik, die darauf abzielt, komplexe Muster in großen Datenmengen zu erkennen.",
+      "Eine Methode, die zur Mustererkennung und Sprachverarbeitung eingesetzt wird.",
+      "Ein einfacher Algorithmus zur Vorhersage"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "C"
+    ],
+    "erklaerung": "Deep Learning nutzt tiefe neuronale Netzwerke mit vielen Schichten, um komplexe Muster zu erkennen. Es ist besonders erfolgreich bei Bild-, Sprach- und Textverarbeitung, da es hierarchische Strukturen in Daten automatisch erlernen kann."
+  },
+  {
+    "id": 11,
+    "type": "Multiple-Choice",
+    "question": "Was sind die Ziele einer Künstlichen Intelligenz (KI)? (1+)",
+    "options": [
+      "Automatisierung von Routinetätigkeiten, um die Effizienz zu steigern.",
+      "Verbesserung der Entscheidungsfindung basierend auf großen Datenmengen.",
+      "Vollständige Kontrolle über alle menschlichen Aktivtäten zu übernehmen.",
+      "Ersetzung menschlicher Arbeitskräfte in allen Bereichen."
+    ],
+    "correct_answers": [
+      "A",
+      "B"
+    ],
+    "erklaerung": "KI zielt darauf ab, Menschen bei Routineaufgaben zu entlasten und bessere Entscheidungen durch Datenanalyse zu ermöglichen. Das Ziel ist Unterstützung und Effizienzsteigerung, nicht die vollständige Ersetzung oder Kontrolle menschlicher Aktivitäten."
+  },
+  {
+    "id": 12,
+    "type": "Single-Choice",
+    "question": "Was ist ChatGPT? (1+)",
+    "options": [
+      "Ein KI-Modell, das zur Textgenerierung auf Basis von menschlichen Eingaben verwendet wird.",
+      "Eine App zur Textbearbeitung ohne KI-Funktionalität.",
+      "Ein rein regelbasiertes System zur Erstellung von Texten.",
+      "Eine KI, die ausschließlich für Kundensupport-Chatbots entwickelt wurde."
+    ],
+    "correct_answers": [
+      "A"
+    ],
+    "erklaerung": "ChatGPT ist ein Large Language Model, das menschenähnliche Texte generiert, indem es auf Milliarden von Textdaten trainiert wurde. Es kann vielfältige Aufgaben bewältigen - von Fragen beantworten bis hin zu kreativem Schreiben."
+  },
+  {
+    "id": 13,
+    "type": "Single-Choice",
+    "question": "Was versteht man unter \"Natural Language Processing\" (NLP)? (1+)",
+    "options": [
+      "Eine Methode, um natürliche Sprache zu verstehen und zu generieren.",
+      "Eine Technologie, die verwendet wird, um Bilder zu generieren.",
+      "Eine Technik zur Vorhersage von Börsendaten.",
+      "Eine Strategie zur Optimierung von neuronalen Netzwerken."
+    ],
+    "correct_answers": [
+      "A"
+    ],
+    "erklaerung": "NLP (Natural Language Processing) befähigt Computer, menschliche Sprache zu verstehen, zu interpretieren und zu generieren. Es umfasst Aufgaben wie Übersetzung, Textanalyse und Sprachsynthese - die Brücke zwischen menschlicher und maschineller Kommunikation."
+  },
+  {
+    "id": 14,
+    "type": "Single-Choice",
+    "question": "Was ist einer der größten Herausforderungen beim Einsatz von KI-Modellen wie ChatGPT? (1+)",
+    "options": [
+      "Die Schwierigkeit, dass KI-Systeme keine natürlichen Sprachen vollständig verstehen können.",
+      "Die Modelle können keine Texte generieren.",
+      "Die Modelle sind darauf ausgelegt, nur einfache Fragen zu beantworten und sind bei komplexen Themen unsicher.",
+      "Die Modelle können auf falsche Informationen zurückgreifen und diese als richtig präsentieren."
+    ],
+    "correct_answers": [
+      "D"
+    ],
+    "erklaerung": "Ein Hauptproblem von KI-Sprachmodellen sind \"Halluzinationen\" - sie können überzeugende, aber falsche Informationen generieren. Da sie auf Mustern in Trainingsdaten basieren, können sie Falschinformationen als Fakten präsentieren, ohne deren Wahrheitsgehalt zu prüfen."
+  },
+  {
+    "id": 15,
+    "type": "Single-Choice",
+    "question": "Welches der folgenden Beispiele zeigt den Einsatz von Künstlicher Intelligenz (KI)? (1+)",
+    "options": [
+      "Ein Papierkalendar, der zur Organisation von Terminen verwendet wird.",
+      "Ein Haushaltsroboter, der mit Kameras Objekte erkennt und Staubsaugen automatisch durchführt.",
+      "Eine manuelle Schreibmaschine, die mechanisch Buchstaben auf Papier tippt.",
+      "Ein einfacher Taschenrechner, der mathematische Berechnungen durchführt."
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "erklaerung": "Der Haushaltsroboter nutzt Computer Vision (Bildverarbeitung) zur Objekterkennung und autonome Navigation - typische KI-Fähigkeiten. Die anderen Beispiele sind rein mechanische oder einfache elektronische Geräte ohne Lern- oder Anpassungsfähigkeiten."
+  },
+  {
+    "id": 16,
+    "type": "Multiple-Choice",
+    "question": "Welche der folgenden Ziele verfolgt die KI-Verordnung? (1+)",
+    "options": [
+      "Förderung der Innovation und technologischen Entwicklung in der EU.",
+      "Verbot der Nutzung von maschinellem Lernen.",
+      "Sicherstellung eines hohen Schutzes für Gesundheit und Sicherheit.",
+      "Ausschließliche Nutzung von KI-Systemen im Industriesektor."
+    ],
+    "correct_answers": [
+      "A",
+      "C"
+    ],
+    "erklaerung": "Die EU-KI-Verordnung verfolgt einen ausgewogenen Ansatz: Sie will Innovation fördern, aber gleichzeitig Bürger vor Risiken schützen. Ziel ist nicht das Verbot von KI, sondern deren verantwortungsvolle Entwicklung und Nutzung."
+  },
+  {
+    "id": 17,
+    "type": "Multiple-Choice",
+    "question": "Für wen gilt unter anderem die KI-Verordnung? (1+)",
+    "options": [
+      "Anbieter, die in der EU KI-Systeme in Verkehr bringen oder in Betrieb nehmen.",
+      "Betreiber, die in der EU ansässig sind oder sich in der EU niederlassen.",
+      "Anbieter in Drittstaaten, die KI-Systeme ausschließlich für militärische Zwecke verwenden.",
+      "Forschungsinstitute, die KI-Systeme nur für wissenschaftliche Zwecke entwickeln."
+    ],
+    "correct_answers": [
+      "A",
+      "B"
+    ],
+    "erklaerung": "Die KI-Verordnung gilt territorial: Sie erfasst alle, die KI-Systeme im EU-Markt anbieten oder betreiben, unabhängig von ihrem Sitz. Militärische Nutzung und reine Forschung haben jedoch spezielle Ausnahmen."
+  },
+  {
+    "id": 18,
+    "type": "Multiple-Choice",
+    "question": "Wer gilt als Anbieter eines KI-Systems? (1+)",
+    "options": [
+      "Eine natürliche oder juristische Person, die ein KI-System entwickelt oder entwickeln lässt.",
+      "Eine Person, die ein KI-System nur privat in der EU verwendet.",
+      "Eine Behörde, die ein KI-System zu internen Verwaltungszwecken einsetzt.",
+      "Eine Person, die ein KI-System unter ihrem eigenen Namen oder ihrer Handelsmarke auf dem Markt bereitstellt."
+    ],
+    "correct_answers": [
+      "A",
+      "D"
+    ],
+    "erklaerung": "Als Anbieter gelten sowohl Entwickler von KI-Systemen als auch diejenigen, die fremde Systeme unter eigenem Namen vermarkten. Private Nutzer oder interne Behördennutzung fallen nicht unter die Anbieterdefinition, da sie nicht kommerziell tätig sind."
+  },
+  {
+    "id": 19,
+    "type": "Multiple-Choice",
+    "question": "Welche Maßnahmen müssen Anbieter und Betreiber von KI-Systemen ergreifen, um die KI-Kompetenz zu gewährleisten? (1+)",
+    "options": [
+      "Die Ausbildung so gestalten, dass sie die individuellen Kenntnisse und den Kontext der KI-Verwendung berücksichtigt.",
+      "Technische Schulungen ohne Berücksichtigung des Kontextes der KI-Verwendung anbieten.",
+      "Keine Verpflichtung zur Schulung, da die Nutzung von KI-Systemen selbsterklärend ist.",
+      "Sicherstellen, dass alle Personen, die mit KI-Systemen arbeiten, ausreichend ausgebildet und geschult werden."
+    ],
+    "correct_answers": [
+      "A",
+      "D"
+    ],
+    "erklaerung": "Die KI-Verordnung verlangt maßgeschneiderte Schulungen: Diese müssen sowohl die technischen Aspekte als auch den spezifischen Anwendungskontext berücksichtigen. Pauschale oder fehlende Schulungen reichen nicht aus, da KI-Systeme komplex und kontextabhängig sind."
+  },
+  {
+    "id": 20,
+    "type": "Multiple-Choice",
+    "question": "Welche der folgenden Praktiken sind im Zusammenhang mit KI-Systemen verboten? (1+)",
+    "options": [
+      "Das Ausnutzen von Schwächen besonders schutzbedürftiger Personen oder Gruppen, um eine Schädigung zu bewirken.",
+      "Das Erstellen von Datenbanken zur Gesichtserkennung durch massenhafte Scraping aus öffentlich zugänglichen Quellen im Internet.",
+      "Die Bewertung des Sozialverhaltens einer Person (Social Scoring) mit unverhältnismäßigen Folgen für diese Person.",
+      "Die Verwendung von biometrischen Echtzeit-Fernkennungssystemen in öffentlich zugänglichen Räumen, wenn diese ausschließlich zur Identifikation von verdächtigen Personen verwendet werden."
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "C"
+    ],
+    "erklaerung": "Die KI-Verordnung verbietet manipulative und diskriminierende KI-Praktiken: Ausnutzung Schwächerer, massenhaftes Sammeln biometrischer Daten und Social Scoring bedrohen Grundrechte. Biometrische Echtzeitüberwachung ist nur unter strengen Bedingungen für Strafverfolgung erlaubt."
+  }
+]

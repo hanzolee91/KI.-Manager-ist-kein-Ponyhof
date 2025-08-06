@@ -1,0 +1,442 @@
+[
+  {
+    "id": 21,
+    "type": "Multiple-Choice",
+    "question": "Welche Kriterien bestimmen, ob ein KI-System als Hochrisiko-System eingestuft wird? (1+)",
+    "options": [
+      "Das System verwendet ausschließlich Open-Source-Daten.",
+      "Das System wird in kritischen Infrastrukturen eingesetzt",
+      "Das System hat potenziell große Auswirkungen auf die Gesundheit von Nutzern.",
+      "Das System basiert auf Machine Learning"
+    ],
+    "correct_answers": [
+      "B",
+      "C"
+    ],
+    "erklaerung": "Hochrisiko-KI-Systeme werden nach ihrem Einsatzbereich und den möglichen Auswirkungen klassifiziert, insbesondere wenn sie in kritischen Infrastrukturen oder gesundheitsrelevanten Anwendungen verwendet werden."
+  },
+  {
+    "id": 22,
+    "type": "Multiple-Choice",
+    "question": "Welche Hauptziele verfolgt die EU-KI-Verordnung? (1+)",
+    "options": [
+      "Förderung der Innovation und technologischen Entwicklung in der EU.",
+      "Sicherstellung eines hohen Schutzes der Gesundheit und Sicherheit.",
+      "Sicherstellung der exklusiven Nutzung von KI-Systemen in europäischen Märkten.",
+      "Ausschließliche Nutzung von KI-Systemen im Industriebereich."
+    ],
+    "correct_answers": [
+      "A",
+      "B"
+    ],
+    "erklaerung": "Die EU-KI-Verordnung balanciert Innovation und Sicherheit, indem sie technologische Entwicklung fördert und gleichzeitig hohe Schutzstandards für Gesundheit und Sicherheit gewährleistet."
+  },
+  {
+    "id": 23,
+    "type": "Multiple-Choice",
+    "question": "Welche Maßnahmen sind bei der Nutzung von biometrischen Echtzeit-Fernkennungssystemen notwendig? (1+)",
+    "options": [
+      "Genehmigung durch eine richterliche Instanz.",
+      "Registrierung bei der nationalen Datenschutzbehörde.",
+      "Überwachung durch menschliche Aufsicht.",
+      "Anonymisierung aller erfassten Daten."
+    ],
+    "correct_answers": [
+      "A",
+      "C"
+    ],
+    "erklaerung": "Biometrische Echtzeit-Fernkennungssysteme erfordern richterliche Genehmigung und menschliche Aufsicht, um Missbrauch zu verhindern und Grundrechte zu schützen."
+  },
+  {
+    "id": 22.1,
+    "type": "Multiple-Choice", 
+    "question": "Was bedeutet \"Social Scoring\" im Kontext der KI-Verordnung? (1+)",
+    "options": [
+      "Nutzung von KI zur Steigerung der sozialen Medienpräsenz.",
+      "Systematische Einstufung von Personen in soziale Kategorien.",
+      "Bewertung des Sozialverhaltens anhand gesammelter Daten.",
+      "Verpflichtende Nutzung von KI in sozialen Diensten"
+    ],
+    "correct_answers": [
+      "B",
+      "C"
+    ],
+    "erklaerung": "Social Scoring bezeichnet die systematische Bewertung und Kategorisierung von Personen basierend auf ihrem Sozialverhalten, was erhebliche Grundrechtsrisiken birgt."
+  },
+  {
+    "id": 23.1,
+    "type": "Multiple-Choice",
+    "question": "Welche Anforderungen gibt es für die Transparenz von KI-Systemen? (1+)",
+    "options": [
+      "Das System muss alle Entscheidungen für die betroffenen Personen erklärbar machen.",
+      "Die Nutzer müssen über die Nutzung von KI informiert werden.",
+      "Es muss eine detaillierte Erklärung der Trainingsdaten veröffentlicht werden.",
+      "Die KI-Algorithmen müssen offengelegt werden."
+    ],
+    "correct_answers": [
+      "A",
+      "B"
+    ],
+    "erklaerung": "Transparenz bedeutet, dass KI-Entscheidungen erklärbar sein müssen und Nutzer über den Einsatz von KI-Systemen informiert werden müssen, um Vertrauen und Nachvollziehbarkeit zu gewährleisten."
+  },
+  {
+    "id": 24,
+    "type": "Single-Choice",
+    "question": "Welche Branche wird als besonders risikobehaftet angesehen, wenn es um den Einsatz von Hochrisiko-KI-Systemen geht? (1+)",
+    "options": [
+      "Einzelhandel",
+      "Gastronomie",
+      "Gesundheitswesen",
+      "Reisebüro"
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "erklaerung": "Das Gesundheitswesen gilt als besonders risikobehaftet, da KI-Entscheidungen dort direkten Einfluss auf Leben und Gesundheit von Menschen haben können."
+  },
+  {
+    "id": 25,
+    "type": "Multiple-Choice",
+    "question": "Welche Rolle spielt die menschliche Aufsicht bei Hochrisiko-KI-Systemen? (1+)",
+    "options": [
+      "Sicherstellung, dass die Entscheidungen des Systems überprüft werden können.",
+      "Verpflichtung, das System alle 6 Monate abzuschalten.",
+      "Nur bei technischen Problemen erforderlich.",
+      "Kontrolle und Notfallübersteuerung des Systems bei Bedarf."
+    ],
+    "correct_answers": [
+      "A",
+      "D"
+    ],
+    "erklaerung": "Menschliche Aufsicht gewährleistet, dass KI-Entscheidungen überprüfbar bleiben und Menschen bei Bedarf eingreifen oder das System übersteuern können."
+  },
+  {
+    "id": 26,
+    "type": "Multiple-Choice",
+    "question": "Was bedeutet \"Stand der Technik\"? (1+)",
+    "options": [
+      "Verpflichtung zur Nutzung der neuesten Technologie.",
+      "Stetige Weiterentwicklung der eingesetzten Algorithmen.",
+      "Orientierung an allgemein anerkannten Technologien.",
+      "Nutzung nur proprietärer Technologien."
+    ],
+    "correct_answers": [
+      "B",
+      "C"
+    ],
+    "erklaerung": "Stand der Technik bedeutet die Orientierung an bewährten, allgemein anerkannten Technologien und deren kontinuierliche Weiterentwicklung entsprechend dem aktuellen Wissensstand."
+  },
+  {
+    "id": 27,
+    "type": "Multiple-Choice",
+    "question": "Welche Sanktionen können bei Verstößen gegen die KI-Verordnung verhängt werden? (1+)",
+    "options": [
+      "Geldstrafen bis zu 35 Millionen Euro.",
+      "Geldstrafen bis zu 7 % des weltweiten Jahresumsatzes.",
+      "Verbot des Vertriebs des betroffenen KI-Systems.",
+      "Freiheitsstrafe für die Verantwortlichen."
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "C"
+    ],
+    "erklaerung": "Die KI-Verordnung sieht empfindliche Geldstrafen und Vertriebsverbote vor, um die Einhaltung der Vorschriften durchzusetzen und wirksame Abschreckung zu schaffen."
+  },
+  {
+    "id": 28,
+    "type": "Multiple-Choice",
+    "question": "Welche Maßnahmen können bei wiederholten Verstößen gegen die Vorschriften der KI-Verordnung ergriffen werden? (1+)",
+    "options": [
+      "Zwangsschließung des Unternehmens.",
+      "Verpflichtung zu Nachschulungen und Aufklärungsmaßnahmen.",
+      "Anordnung zur Überarbeitung des KI-Systems.",
+      "Öffentliches Bekanntmachen der Verstöße."
+    ],
+    "correct_answers": [
+      "B",
+      "C",
+      "D"
+    ],
+    "erklaerung": "Bei wiederholten Verstößen können Behörden Nachschulungen anordnen, Systemüberarbeitungen verlangen und Verstöße öffentlich machen, um präventive Wirkung zu erzielen."
+  },
+  {
+    "id": 29,
+    "type": "Multiple-Choice",
+    "question": "Welche Rechte haben Dritte im Zusammenhang mit der Nutzung von Hochrisiko-KI-Systemen? (1+)",
+    "options": [
+      "Recht auf Erklärung der Entscheidung bei betroffenen Personen.",
+      "Recht auf Beschwerde bei der Marktüberwachungsbehörde.",
+      "Recht auf Einsicht in die technische Dokumentation des KI-Systems.",
+      "Recht auf Entschädigung bei erlittenen Schäden durch das KI-System."
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "D"
+    ],
+    "erklaerung": "Betroffene Personen haben das Recht auf Erklärung von KI-Entscheidungen, können sich bei Behörden beschweren und haben Anspruch auf Entschädigung bei Schäden."
+  },
+  {
+    "id": 30,
+    "type": "Multiple-Choice",
+    "question": "Welche Pflichten haben die Mitgliedstaaten in Bezug auf die Einrichtung von nationalen Behörden? (1+)",
+    "options": [
+      "Benennung von mindestens einer notifizierenden Behörde.",
+      "Benennung von mindestens zwei Marktüberwachungsbehörden.",
+      "Einrichtung einer zentralen Anlaufstelle für die Einhaltung der Vorschriften.",
+      "Einrichtung einer Behörde für die Bewertung von Datenschutzverstößen."
+    ],
+    "correct_answers": [
+      "A",
+      "C"
+    ],
+    "erklaerung": "Mitgliedstaaten müssen notifizierende Behörden benennen und zentrale Anlaufstellen einrichten, um eine effektive Durchsetzung der KI-Verordnung zu gewährleisten."
+  },
+  {
+    "id": 31,
+    "type": "Multiple-Choice",
+    "question": "Welche Aufgaben hat die Marktüberwachungsbehörde? (1+)",
+    "options": [
+      "Kontrolle der Einhaltung der KI-Verordnung nach Markteinführung.",
+      "Verantwortung für die Überwachung der Nutzung von Hochrisiko-KI-Systemen.",
+      "Durchführung der ex-ante Konformitätsbewertung.",
+      "Unterstützung der Anbieter bei der Entwicklung von neuen KI-Systemen."
+    ],
+    "correct_answers": [
+      "A",
+      "B"
+    ],
+    "erklaerung": "Marktüberwachungsbehörden kontrollieren die Einhaltung der KI-Verordnung nach der Markteinführung und überwachen die Nutzung von Hochrisiko-KI-Systemen."
+  },
+  {
+    "id": 32,
+    "type": "Multiple-Choice",
+    "question": "Welche Aufgaben und Ziele verfolgen KI-Reallabore? (1+)",
+    "options": [
+      "Bereitstellung von finanzieller Unterstützung für Start-ups.",
+      "Unterstützung bei der Marktüberwachung von Hochrisiko-KI-Systemen.",
+      "Durchführung von Tests zur Einhaltung der gesetzlichen Vorschriften.",
+      "Förderung der Forschung und Entwicklung neuer KI-Technologien."
+    ],
+    "correct_answers": [
+      "C",
+      "D"
+    ],
+    "erklaerung": "KI-Reallabore ermöglichen kontrollierte Tests neuer KI-Technologien unter realen Bedingungen und fördern gleichzeitig Forschung und Entwicklung unter Einhaltung gesetzlicher Vorschriften."
+  },
+  {
+    "id": 33,
+    "type": "Multiple-Choice",
+    "question": "Was müssen Anbieter von KI-Modellen mit allgemeinem Sicherheitsrisiko im Zusammenhang mit der Nutzung der Modelle berücksichtigen? (1+)",
+    "options": [
+      "Alle Sicherheitsrisiken im Zusammenhang mit dem Einsatz der Modelle zu identifizieren.",
+      "Die Modelle regelmäßig an die Öffentlichkeit weiterzugeben",
+      "Die Entwicklung neuer Modelle ausschließlich unter Aufsicht einer Behörde durchzuführen.",
+      "Geeignete technische und organisatorische Maßnahmen zum Schutz der Nutzer zu ergreifen."
+    ],
+    "correct_answers": [
+      "A",
+      "D"
+    ],
+    "erklaerung": "Anbieter müssen alle Sicherheitsrisiken identifizieren und angemessene technische sowie organisatorische Schutzmaßnahmen implementieren, um die Sicherheit der Nutzer zu gewährleisten."
+  },
+  {
+    "id": 34,
+    "type": "Multiple-Choice",
+    "question": "Welche Anforderungen gelten für die CE-Kennzeichnung von Hochrisiko-KI-Systemen? (1+)",
+    "options": [
+      "Die CE-Kennzeichnung muss gut sichtbar, leserlich und dauerhaft an Hochrisiko-KI-Systemen angebracht werden",
+      "Die Identifizierungsnummer der für die Konformitätsbewertung zuständigen notifizierten Stelle muss gegebenenfalls hinzugefügt werden.",
+      "Eine digitale CE-Kennzeichnung ist bei digitalen Hochrisiko-KI-Systemen nicht erlaubt.",
+      "Die CE-Kennzeichnung kann auch auf der Verpackung oder der beigefügten Dokumentation angebracht werden, wenn die Art des Systems dies nicht zulässt"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "D"
+    ],
+    "erklaerung": "Die CE-Kennzeichnung muss sichtbar und dauerhaft angebracht werden, kann aber bei digitalen Systemen auch auf Verpackung oder Dokumentation erfolgen, und muss die Identifizierungsnummer der notifizierten Stelle enthalten."
+  },
+  {
+    "id": 34.1,
+    "type": "Multiple-Choice",
+    "question": "Welche Inhalte müssen in der Grundrechte-Folgenabschätzung für Hochrisiko-KI-Systeme enthalten sein? (1+)",
+    "options": [
+      "Beschreibung des Verfahrens zur Nutzung des Systems im Einklang mit seiner Zweckbestimmung.",
+      "Kategorien der betroffenen natürlichen Personen und Personengruppen.",
+      "Beschreibung der Maßnahmen zur menschlichen Aufsicht.",
+      "Beschreibung der Entwicklungsdauer des KI-Systems."
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "C"
+    ],
+    "erklaerung": "Die Grundrechte-Folgenabschätzung muss das Nutzungsverfahren, betroffene Personengruppen und Maßnahmen zur menschlichen Aufsicht beschreiben, um Grundrechtsrisiken zu bewerten."
+  },
+  {
+    "id": 35,
+    "type": "Multiple-Choice",
+    "question": "Welche Pflichten hat der Betreiber nach Durchführung der Grundrechte-Folgenabschätzung? (1+)",
+    "options": [
+      "Es ist keine weitere Maßnahme erforderlich, wenn die erste Verwendung abgeschlossen ist.",
+      "Die Ergebnisse müssen der Marktüberwachungsbehörde mitgeteilt werden.",
+      "Der Betreiber muss die Folgenabschätzung aktualisieren, wenn sich relevante Elemente ändern.",
+      "Die Ergebnisse müssen auf der Website des Unternehmens veröffentlicht werden."
+    ],
+    "correct_answers": [
+      "B",
+      "C"
+    ],
+    "erklaerung": "Betreiber müssen die Ergebnisse der Grundrechte-Folgenabschätzung an die Marktüberwachungsbehörde melden und die Bewertung bei Änderungen aktualisieren."
+  },
+  {
+    "id": 42,
+    "type": "Multiple-Choice",
+    "question": "Welche Maßnahmen gehören zu den Technisch-Organisatorischen Maßnahmen (TOMs) zur Risikominimierung? (1+)",
+    "options": [
+      "Implementierung von Zugangskontrollen",
+      "Schulungen für die Nutzer des KI-Systems",
+      "Veröffentlichung des gesamten Quellcodes",
+      "Datenverschlüsselung zur Risikominimierung"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "D"
+    ],
+    "erklaerung": "TOMs umfassen technische Maßnahmen wie Zugangskontrollen und Verschlüsselung sowie organisatorische Maßnahmen wie Nutzerschulungen zur Risikominimierung."
+  },
+  {
+    "id": 43,
+    "type": "Multiple-Choice",
+    "question": "Was ist das Hauptziel des Risikomanagements? (1+)",
+    "options": [
+      "Identifikation und Bewertung potenzieller Risiken.",
+      "Qualitätssicherung und Erwartungsmanagement.",
+      "Vermeidung jeglicher gesetzlicher Vorgaben.",
+      "Maximierung des Geschäftswerts."
+    ],
+    "correct_answers": [
+      "A",
+      "B"
+    ],
+    "erklaerung": "Risikomanagement zielt darauf ab, potenzielle Risiken systematisch zu identifizieren und zu bewerten sowie durch Qualitätssicherung die Erwartungen zu erfüllen."
+  },
+  {
+    "id": 44,
+    "type": "Multiple-Choice",
+    "question": "Welche Schritte gehören zur Risikoidentifikation in KI-Projekten? (1+)",
+    "options": [
+      "Untersuchung des Anwendungsbereichs des Systems",
+      "Überprüfung des Algorithmus auf Bias",
+      "Identifikation von möglichen rechtlichen Auswirkungen",
+      "Analyse der Projektkosten"
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "C"
+    ],
+    "erklaerung": "Risikoidentifikation umfasst die Analyse des Anwendungsbereichs, die Überprüfung auf Algorithmus-Bias und die Bewertung rechtlicher Risiken zur umfassenden Risikobewertung."
+  },
+  {
+    "id": 45,
+    "type": "Multiple-Choice",
+    "question": "Welche Risiken sind bei der Nutzung von KI-Systemen häufig zu beachten? (1+)",
+    "options": [
+      "Erhöhte Genauigkeit und Zuverlässigkeit von Entscheidungen",
+      "Mangelnde Transparenz der Entscheidungsprozesse",
+      "Keine Notwendigkeit von menschlicher Überwachung",
+      "Verzerrungen und Diskriminierung durch unzureichende Trainingsdaten (Bias)"
+    ],
+    "correct_answers": [
+      "B",
+      "D"
+    ],
+    "erklaerung": "Hauptrisiken bei KI-Systemen sind mangelnde Transparenz der Entscheidungsfindung und Bias durch unausgewogene oder unzureichende Trainingsdaten, die zu Diskriminierung führen können."
+  },
+  {
+    "id": 46,
+    "type": "Multiple-Choice",
+    "question": "Welche Maßnahmen sind sinnvoll, um Qualitätsmanagementsprozesse im Risikomanagement von KI-Systemen zu gewährleisten? (1+)",
+    "options": [
+      "Nutzung ausschließlich selbstentwickelter Algorithmen",
+      "Entwicklung eines umfassenden Testplans zur Validierung des Systems",
+      "Laufende Überprüfung der Relevanz und Aktualität der Daten",
+      "Ignorieren von Ausreißern in den Trainingsdaten"
+    ],
+    "correct_answers": [
+      "B",
+      "C"
+    ],
+    "erklaerung": "Qualitätsmanagement erfordert umfassende Testpläne zur Systemvalidierung und kontinuierliche Überprüfung der Datenqualität und -aktualität für zuverlässige KI-Systeme."
+  },
+  {
+    "id": 47,
+    "type": "Multiple-Choice",
+    "question": "Welche ethischen Prinzipien sind besonders wichtig bei der Entwicklung und Implementierung von KI-Systemen? (1+)",
+    "options": [
+      "Maximierung des Profits ohne Rücksicht auf die Konsequenzen",
+      "Transparenz und Nachvollziehbarkeit",
+      "Nicht-Diskriminierung und Fairness",
+      "Einhaltung der Privatsphäre"
+    ],
+    "correct_answers": [
+      "B",
+      "C",
+      "D"
+    ],
+    "erklaerung": "Zentrale ethische Prinzipien für KI sind Transparenz und Nachvollziehbarkeit, Fairness ohne Diskriminierung sowie der Schutz der Privatsphäre der Betroffenen."
+  },
+  {
+    "id": 48,
+    "type": "Multiple-Choice",
+    "question": "Welche Maßnahmen helfen, ethische Risiken in KI-Projekten zu minimieren? (1+)",
+    "options": [
+      "Automatisierter Entscheidungsprozess ohne menschliches Eingreifen",
+      "Durchführung von Bias-Tests und fairer Datenüberprüfung",
+      "Schulung der Entwickler in ethischen Grundsätzen",
+      "Reduktion der Datenqualität, um schnelle Ergebnisse zu erzielen"
+    ],
+    "correct_answers": [
+      "B",
+      "C"
+    ],
+    "erklaerung": "Ethische Risiken werden durch systematische Bias-Tests, faire Datenprüfung und Schul ung der Entwickler in ethischen Grundsätzen minimiert."
+  },
+  {
+    "id": 49,
+    "type": "Multiple-Choice",
+    "question": "Was sind ethische Herausforderungen beim Einsatz von KI im Bereich Personalwesen (HR)? (1+)",
+    "options": [
+      "Diskriminierung durch Verzerrungen in den Trainingsdaten",
+      "Verbesserung der Objektivität und Transparenz bei Entscheidungen",
+      "Automatisierte Entscheidungen ohne Beachtung des Datenschutzes",
+      "Vermeidung von subjektiven Entscheidungen durch KI"
+    ],
+    "correct_answers": [
+      "A",
+      "C"
+    ],
+    "erklaerung": "Im HR-Bereich bestehen ethische Risiken durch Bias in Trainingsdaten, der zu Diskriminierung führt, und automatisierte Entscheidungen ohne ausreichenden Datenschutz."
+  },
+  {
+    "id": 50,
+    "type": "Multiple-Choice",
+    "question": "Was sind Bestandteile eines effektiven Risikomanagements für KI-Systeme? (1+)",
+    "options": [
+      "Identifizierung und -analyse von Risiken",
+      "Ausschluss von Risikobetrachtungen bei agilen Entwicklungsansätzen",
+      "Regelmäßige Überwachung und Anpassung der Risikostrategien",
+      "Risikobewertung anhand von Eintrittswahrscheinlichkeit und Schwere der Konsequenzen"
+    ],
+    "correct_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "erklaerung": "Effektives Risikomanagement umfasst systematische Risikoidentifikation, kontinuierliche Überwachung und Anpassung sowie Bewertung nach Eintrittswahrscheinlichkeit und Schadensschwere."
+  }
+]

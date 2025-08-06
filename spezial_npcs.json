@@ -1,0 +1,173 @@
+[
+  {
+    "id": 1001,
+    "name": "Albert Einstein",
+    "frage": "Was ist unter dem Begriff 'Relativität' in der KI-Entwicklung zu verstehen?",
+    "antworten": ["A: Zeitverzögerung beim Training", "B: Kontextabhängigkeit von Daten", "C: Relativer Speicherverbrauch"],
+    "korrekteAntwort": "B",
+    "erklaerung": "In der KI beschreibt 'Relativität' oft, dass Daten und Entscheidungen kontextabhängig bewertet werden müssen.",
+    "bonus": "📘 Spezialwissen – +10 % auf Erfolgsanzeige"
+  },
+  {
+    "id": 1002,
+    "name": "Isaac Asimov",
+    "frage": "Welche Rolle spielen Asimovs Robotergesetze heute in der KI-Ethik?",
+    "antworten": ["A: Keine", "B: Nur historisch", "C: Inspiration für heutige Leitlinien"],
+    "korrekteAntwort": "C",
+    "erklaerung": "Asimovs Gesetze haben keinen rechtlichen Wert, dienen aber oft als ethisches Gedankenmodell in der KI-Entwicklung.",
+    "bonus": "🧭 Ethik-Bonus – Fehler bei dieser Frage senken Erfolgsrate nicht"
+  },
+  {
+    "id": 1003,
+    "name": "Nikola Tesla",
+    "frage": "Welche Parallele gibt es zwischen Teslas Visionen und moderner KI?",
+    "antworten": ["A: Energieübertragung", "B: Selbststeuernde Systeme", "C: Magnetismus"],
+    "korrekteAntwort": "B",
+    "erklaerung": "Tesla träumte von autonomen Maschinen – ein Konzept, das sich heute in KI-gestützten Systemen widerspiegelt.",
+    "bonus": "⚡ Energie-Boost – +5 Punkte"
+  },
+  {
+    "id": 1004,
+    "name": "Marie Curie",
+    "frage": "Welche Bedeutung hat Datenanalyse in der Forschung – damals und heute?",
+    "antworten": ["A: Keine", "B: Methodischer Kern", "C: Nur Visualisierung"],
+    "korrekteAntwort": "B",
+    "erklaerung": "Wie Curie auf experimentelle Daten vertraute, basiert moderne KI auf datengetriebener Analyse.",
+    "bonus": "🔬 Datenklarheit – nächste Frage zeigt automatisch eine Erklärung"
+  },
+  {
+    "id": 1005,
+    "name": "Alan Turing",
+    "frage": "Was prüft der Turing-Test?",
+    "antworten": ["A: Sprachfähigkeit", "B: Menschlichkeit", "C: Unterscheidbarkeit von Menschen"],
+    "korrekteAntwort": "C",
+    "erklaerung": "Der Test fragt, ob ein Mensch im Dialog erkennt, ob er mit einer Maschine spricht.",
+    "bonus": "🎭 Tarnung – Der nächste NPC-Typ wird nicht angezeigt"
+  },
+  {
+    "id": 1006,
+    "name": "Ada Lovelace",
+    "frage": "Worin liegt Ada Lovelaces Beitrag zur KI?",
+    "antworten": ["A: Sie programmierte neuronale Netze", "B: Sie schrieb das erste Programm", "C: Sie nutzte maschinelles Lernen"],
+    "korrekteAntwort": "B",
+    "erklaerung": "Ada Lovelace gilt als erste Programmiererin – ihr analytischer Zugang ebnete KI-Methoden den Weg.",
+    "bonus": "📝 Logik +1 – Erhöht korrekte Antwortchance um 5 % (intern)"
+  },
+  {
+    "id": 1007,
+    "name": "Stephen Hawking",
+    "frage": "Welchen Einfluss hat KI auf unsere Vorstellung von Intelligenz?",
+    "antworten": ["A: Keine", "B: KI ersetzt Menschen", "C: KI erweitert das Verständnis"],
+    "korrekteAntwort": "C",
+    "erklaerung": "Hawking betonte, dass KI uns zwingt, Intelligenz neu zu definieren – jenseits biologischer Grenzen.",
+    "bonus": "🧬 Denkweite – Erfolgsanzeige sinkt nicht bei der nächsten falschen Antwort"
+  },
+  {
+    "id": 1008,
+    "name": "Simone Giertz",
+    "frage": "Was lernen wir durch absurde Maschinen in der KI?",
+    "antworten": ["A: Nichts", "B: Fehlervermeidung", "C: Kreatives Denken"],
+    "korrekteAntwort": "C",
+    "erklaerung": "Simone Giertz nutzt fehlschlagende Roboter, um Grenzen von KI und Menschlichkeit kreativ zu hinterfragen.",
+    "bonus": "🎨 Kreativboost – Erfolgsanzeige +5 %"
+  },
+  {
+    "id": 1009,
+    "name": "Ray Kurzweil",
+    "frage": "Was ist mit technologischer Singularität gemeint?",
+    "antworten": ["A: Netzwerkausfall", "B: Mensch-Maschine-Verschmelzung", "C: Simulationshypothese"],
+    "korrekteAntwort": "B",
+    "erklaerung": "Kurzweil beschreibt damit den Moment, wenn KI die menschliche Intelligenz übertrifft und verschmilzt.",
+    "bonus": "♾️ Singularitätsmodul – Antwortzeit bei nächster Frage verdoppelt"
+  },
+  {
+    "id": 1010,
+    "name": "Bogota (Hunde-Symbiontin)",
+    "frage": "Welche Rolle spielt Vertrauen zwischen Mensch und KI?",
+    "antworten": ["A: Keine", "B: Grundlage für Zusammenarbeit", "C: Nur bei autonomen Autos"],
+    "korrekteAntwort": "B",
+    "erklaerung": "Wie bei Tiertraining braucht KI Vertrauen – je besser sie nachvollziehbar handelt, desto größer das Vertrauen.",
+    "bonus": "🐾 Loyalität – Belohnung beim nächsten Lasso-Kauf halbiert sich"
+  },
+  {
+    "id": 1011,
+    "name": "Der Zeitreisende",
+    "frage": "Welche historische Technik war Vorläufer maschinellen Lernens?",
+    "antworten": ["A: Spinnrad", "B: Webstuhl von Jacquard", "C: Buchdruck"],
+    "korrekteAntwort": "B",
+    "erklaerung": "Der Jacquard-Webstuhl arbeitete mit Lochkarten – eine frühe Form von Programmierung und Entscheidungslogik.",
+    "bonus": "⌛ Retrobonus – nächster NPC kommt sofort"
+  },
+  {
+    "id": 1012,
+    "name": "Meister Zhou",
+    "frage": "Wie vereint man ethisches Handeln mit effizienter KI?",
+    "antworten": ["A: Durch Regulierung", "B: Durch Meditation", "C: Durch Trial-and-Error"],
+    "korrekteAntwort": "A",
+    "erklaerung": "Zhou glaubt an Regeln, die Technik zähmen – KI braucht Leitplanken, um der Menschheit zu dienen.",
+    "bonus": "🧘 Gelassenheit – Ton wird bei Fehlern weicher"
+  },
+  {
+    "id": 1013,
+    "name": "Liza Lightning",
+    "frage": "Was bringt Gamification in der KI-Ausbildung?",
+    "antworten": ["A: Unterhaltung", "B: Motivationssteigerung", "C: Schnellere Prozesse"],
+    "korrekteAntwort": "B",
+    "erklaerung": "Gamification fördert spielerisches Lernen und erhöht die Verweildauer bei komplexen Inhalten.",
+    "bonus": "🎮 Spieltrieb – +1 Power-Up sofort aktiv"
+  },
+  {
+    "id": 1014,
+    "name": "Cyra der Cyborg",
+    "frage": "Was versteht man unter Mensch-Maschine-Interaktion (HMI)?",
+    "antworten": ["A: Ein Roboterkörper für Menschen", "B: Die Interaktion zwischen Menschen und Maschinen", "C: Die Kommunikation von Maschinen untereinander"],
+    "korrekteAntwort": "B",
+    "erklaerung": "HMI bezeichnet die Schnittstelle, über die Menschen mit Maschinen interagieren – z. B. über Touchscreens, Sprache oder Gesten.",
+    "bonus": "🧠 Neural-Boost – nächste Frage gibt doppelte Punkte"
+  },
+  {
+    "id": 2001,
+    "name": "Dr. Müdmann",
+    "frage": "Wie hieß das nochmal... Ein KI-System für Sprachverarbeitung nennt man ___?",
+    "antworten": ["A: Regelwerk", "B: NLP-System", "C: Datenbank", "D: Compiler"],
+    "korrekteAntwort": "B",
+    "erklaerung": "NLP steht für Natural Language Processing - die automatische Verarbeitung natürlicher Sprache durch Computer.",
+    "bonus": "☕ Müdigkeits-Bonus – Weniger Punktverlust bei Fehlern"
+  },
+  {
+    "id": 2002,
+    "name": "Emma Schusselig",
+    "frage": "Ähm... mir liegt's auf der Zunge... Machine Learning auf Deutsch heißt ___ Lernen?",
+    "antworten": ["A: Automatisches", "B: Maschinelles", "C: Künstliches", "D: Digitales"],
+    "korrekteAntwort": "B",
+    "erklaerung": "Machine Learning wird auf Deutsch als 'Maschinelles Lernen' bezeichnet - Algorithmen, die aus Daten lernen.",
+    "bonus": "🧠 Gedächtnis-Hilfe – Nächste Antwort wird hervorgehoben"
+  },
+  {
+    "id": 2003,
+    "name": "Ben Koffeinjunkie",
+    "frage": "*schlürft Kaffee* Moment... ein ___ ist ein Computerprogramm, das Gespräche führt?",
+    "antworten": ["A: Browser", "B: Chatbot", "C: Server", "D: Compiler"],
+    "korrekteAntwort": "B",
+    "erklaerung": "Ein Chatbot ist ein Programm, das automatisierte Gespräche mit Menschen führen kann - oft mit KI-Unterstützung.",
+    "bonus": "☕ Koffein-Kick – +3 Extra Punkte für richtige Antworten"
+  },
+  {
+    "id": 2004,
+    "name": "Lisa Gedächtnislücke",
+    "frage": "*kratzt sich den Kopf* Wie nennt man nochmal... ein ___ Network lernt aus großen Datenmengen?",
+    "antworten": ["A: Social", "B: Neural", "C: Computer", "D: Telephone"],
+    "korrekteAntwort": "B",
+    "erklaerung": "Ein Neural Network (Neuronales Netz) ist von der Funktionsweise des Gehirns inspiriert und lernt Muster aus Daten.",
+    "bonus": "🔍 Gedächtnis-Boost – Zeigt Hinweise bei der nächsten Frage"
+  },
+  {
+    "id": 2005,
+    "name": "Max Brainfog",
+    "frage": "*gähnt* Entschuldigung... ein ___ ist eine Sammlung von Trainingsdaten für KI?",
+    "antworten": ["A: Dataset", "B: Software", "C: Hardware", "D: Website"],
+    "korrekteAntwort": "A",
+    "erklaerung": "Ein Dataset ist eine strukturierte Sammlung von Daten, die zum Training und Testen von KI-Modellen verwendet wird.",
+    "bonus": "😴 Schlaf-Modus – Automatische Antwort-Verlängerung um 10 Sekunden"
+  }
+]

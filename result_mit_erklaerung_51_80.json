@@ -1,0 +1,446 @@
+[
+  {
+    "id": 51,
+    "type": "Multiple-Choice",
+    "question": "Was sind Bestandteile eines effektiven Risikomanagement-Prozesses für KI-Systeme? (1+)",
+    "options": [
+      "Risikodokumentation und -analyse.",
+      "Regelmäßige Überwachung und Anpassung der Risikostrategien.",
+      "Ausschluss von Risikobetrachtungen bei agilen Entwicklungsansätzen.",
+      "Förderung des Endbenutzers zur Nutzung des Systems."
+    ],
+    "correct_answers": [
+      "A",
+      "B"
+    ],
+    "erklaerung": "Effektives Risikomanagement erfordert systematische Dokumentation und Analyse von Risiken sowie kontinuierliche Überwachung und Anpassung der Strategien, um auf neue Entwicklungen reagieren zu können."
+  },
+  {
+    "id": 52,
+    "type": "Multiple-Choice",
+    "question": "Wie kann die Transparenz eines KI-Systems verbessert werden? (1+)",
+    "options": [
+      "Erstellung von Erklärungen zu den Entscheidungen des Systems.",
+      "Schulung der Endbenutzer zur Nutzung des Systems ohne jegliche Erklärungen",
+      "Dokumentation der verwendeten Trainingsdaten und Algorithmen.",
+      "Einsatz von Black Box Modellen zur Erhöhung der Genauigkeit ohne Berücksichtigung der Nachvollziehbarkeit."
+    ],
+    "correct_answers": [
+      "A",
+      "C"
+    ],
+    "erklaerung": "Transparenz wird durch verständliche Erklärungen der KI-Entscheidungen und umfassende Dokumentation der verwendeten Daten und Algorithmen erreicht, um Nachvollziehbarkeit zu gewährleisten."
+  },
+  {
+    "id": 53,
+    "type": "Multiple-Choice",
+    "question": "Welche ethischen Fragen stellt die KI-Verordnung in Bezug auf die Nutzung von Hochrisiko-KI-Systemen? (1+)",
+    "options": [
+      "Die Verordnung verlangt ein angemessenes Maß an Genauigkeit, Robustheit und Cybersicherheit während des gesamten Lebenszykus.",
+      "Die Qualität der Datensätze soll sicherstellen, dass keine diskriminierenden Entscheidungen getroffen werden.",
+      "Es besteht die Verpflichtung zur Erhöhung der Profitmaximierung des Unternehmens durch die KI-Implementierung.",
+      "Die Verordnung ermöglicht Betroffenen einen uneingeschränkten Zugang zu den Trainingsdaten der verwendeten KI."
+    ],
+    "correct_answers": [
+      "A",
+      "B"
+    ],
+    "erklaerung": "Die KI-Verordnung stellt ethische Anforderungen an Genauigkeit, Robustheit und Cybersicherheit sowie an die Datenqualität, um Diskriminierung zu verhindern und faire KI-Entscheidungen zu gewährleisten."
+  },
+  {
+    "id": 54,
+    "type": "Multiple-Choice",
+    "question": "Welche Risiken bestehen laut KI-Verordnung für die Durchsetzung der Antidiskriminierungsanforderungen? (1+)",
+    "options": [
+      "Die Unbestimmtheit der Anforderungen an die Qualität der Trainingsdaten kann die behördliche Überwachung erschweren.",
+      "Marktüberwachungsbehörden haben uneingeschränkten Zugang zum Quellcode, um Diskriminierungsursachen vollständig zu erkennen.",
+      "Es gibt Schwierigkeiten, die Einhaltung der Anforderungen an Datensätze zu überprüfen, da diese unzureichend präzisiert sind.",
+      "Es fehlen klar definierte Bewertungskriterien für „faire" Daten."
+    ],
+    "correct_answers": [
+      "A",
+      "D"
+    ],
+    "erklaerung": "Die Durchsetzung von Antidiskriminierungsanforderungen wird durch unbestimmte Qualitätsanforderungen und fehlende klare Bewertungskriterien für faire Daten erschwert, was die Überwachung kompliziert."
+  },
+  {
+    "id": 55,
+    "type": "Multiple-Choice",
+    "question": "Welche Kritikpunkte könnten bezüglich der Durchsetzung der KI-Verordnung vertretbar sein? (1+)",
+    "options": [
+      "Die Anforderungen an die Datenqualität sind unbestimmt, was zu einem Mangel an Rechtssicherheit führt.",
+      "Die Marktüberwachungsbehörden könnten mit der Durchsetzung der Anforderungen überfordert sein.",
+      "Die Verordnung stellt keine Anforderungen an die Transparenz der KI-Systeme.",
+      "Der Zugang zu relevanten Dokumenten ist den von Diskriminierung Betroffenen uneingeschränkt gestattet."
+    ],
+    "correct_answers": [
+      "A",
+      "B"
+    ],
+    "erklaerung": "Berechtigte Kritikpunkte sind die mangelnde Bestimmtheit der Datenqualitätsanforderungen, die Rechtsunsicherheit schafft, und die mögliche Überforderung der Marktüberwachungsbehörden bei der Durchsetzung."
+  },
+  {
+    "id": 56,
+    "type": "Multiple-Choice",
+    "question": "Welche Herausforderungen bestehen bei der Verhinderung mittelfeiner Diskriminierung durch Hochrisiko-KI-Systeme? (1+)",
+    "options": [
+      "Mittelfeine Diskriminierung entsteht durch Stellvertreter-Variablen, die Korrelationen zu geschützten Merkmalen aufweisen.",
+      "Menschliche Entscheidungsträger können oft nicht erkennen, dass bestimmte Variablen Diskriminierung verursachen.",
+      "Die KI-Verordnung macht keine Vorgaben dazu, welche Art von Verzerrungen zu vermeiden sind.",
+      "Die KI-Verordnung verlangt, dass alle potenziell diskriminierenden Korrelationen entfernt werden."
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "C"
+    ],
+    "erklaerung": "Mittelfeine Diskriminierung ist schwer zu erkennen, da sie durch indirekte Stellvertreter-Variablen entsteht, die für Menschen oft nicht als diskriminierend erkennbar sind, und die Verordnung keine spezifischen Vorgaben dazu macht."
+  },
+  {
+    "id": 57,
+    "type": "Multiple-Choice",
+    "question": "Welche möglichen negativen Folgen könnten die umfangreichen bürokratischen Anforderungen für die europäische KI-Branche haben? (1+)",
+    "options": [
+      "Die strengen Regulierungen könnten den europäischen Binnenmarkt international schwächen, anstatt ihn zu stärken.",
+      "Das Mikromanagement der Datenverwaltung schränkt die Flexibilität zur Entscheidungsfindung im Einzelfall ein.",
+      "Die umfangreichen Anforderungen erleichtern kleinen und mittelständischen Unternehmen in der EU den Markteintritt.",
+      "Kleine und mittelständische Unternehmen in der EU könnten im internationalen Wettbewerb durch die hohen Compliance-Kosten benachteiligt werden."
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "D"
+    ],
+    "erklaerung": "Umfangreiche bürokratische Anforderungen können die internationale Wettbewerbsfähigkeit Europas schwächen, die Flexibilität bei Einzelfallentscheidungen einschränken und besonders kleinere Unternehmen durch hohe Compliance-Kosten belasten."
+  },
+  {
+    "id": 58,
+    "type": "Multiple-Choice",
+    "question": "Welche wichtigen Schritte sind bei der Datenaufbereitung für maschinelles Lernen zu beachten? (1+)",
+    "options": [
+      "Anonymisierung der Daten, um den Datenschutz zu gewährleisten.",
+      "Überprüfung der Daten auf Vollständigkeit und Konsistenz.",
+      "Kategorisierung der Daten in sinnvolle Klassen.",
+      "Einsatz unsicherer Datenquellen zur Verbesserung der Vielfalt."
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "C"
+    ],
+    "erklaerung": "Datenaufbereitung umfasst Anonymisierung zum Datenschutz, Überprüfung auf Vollständigkeit und Konsistenz sowie sinnvolle Kategorisierung, um die Daten für maschinelles Lernen optimal vorzubereiten."
+  },
+  {
+    "id": 61,
+    "type": "Multiple-Choice",
+    "question": "Was versteht man unter Datenaufbereitung im Kontext des Datenmanagements? (1+)",
+    "options": [
+      "Säubern, Transformieren und Umstrukturieren der Rohdaten, um sie für die Analyse nutzbar zu machen.",
+      "Verschlüsselung der Daten für die sichere Übertragung.",
+      "Einsatz von Daten ohne Anpassung an die Anforderungen eines Modells.",
+      "Erstellen von Duplikaten der Rohdaten zur Sicherstellung der Verfügbarkeit."
+    ],
+    "correct_answers": [
+      "A",
+      "B"
+    ],
+    "erklaerung": "Datenaufbereitung bezeichnet die Bereinigung, Transformation und Umstrukturierung von Rohdaten sowie deren Verschlüsselung, um sie für Analysen nutzbar und sicher zu machen."
+  },
+  {
+    "id": 62,
+    "type": "Multiple-Choice",
+    "question": "Welche potenziellen Risiken bestehen bei der Datenbeschaffung für KI-Systeme? (1+)",
+    "options": [
+      "Rechtliche Risiken bei der Nutzung von Daten ohne Einwilligung.",
+      "Die Gefahr, dass die verwendeten Daten Verzerrungen (Bias) enthalten.",
+      "Die Verwendung ausschließlich synthetischer Daten, um Kosten zu sparen.",
+      "Erhöhung der Datenqualität durch Integration vieler Quellen."
+    ],
+    "correct_answers": [
+      "A",
+      "B"
+    ],
+    "erklaerung": "Hauptrisiken bei der Datenbeschaffung sind rechtliche Probleme durch fehlende Einwilligung und die Gefahr von Bias in den Daten, der zu diskriminierenden KI-Entscheidungen führen kann."
+  },
+  {
+    "id": 63,
+    "type": "Multiple-Choice",
+    "question": "Welche Konsequenzen kann schlechte Datenqualität für KI-gestützte Systeme haben? (1+)",
+    "options": [
+      "Erhöhung der Rechenleistung und damit der Betriebskosten.",
+      "Verbesserung der Fairness der KI-Entscheidungen.",
+      "Verminderte Fähigkeit des Modells, aus den Daten zu lernen.",
+      "Fehlerhafte Ergebnisse der KI-Modelle."
+    ],
+    "correct_answers": [
+      "C",
+      "D"
+    ],
+    "erklaerung": "Schlechte Datenqualität führt zu verminderter Lernfähigkeit des KI-Modells und fehlerhaften Ergebnissen, da das System auf unzuverlässigen oder unvollständigen Informationen basiert."
+  },
+  {
+    "id": 64,
+    "type": "Single-Choice",
+    "question": "Was versteht man unter Datenaufbereitung? (1+)",
+    "options": [
+      "Säubern, transformieren und umstrukturieren der Rohdaten, um sie für die Analyse nutzbar zu machen",
+      "Verschlüsselung der Daten für die sichere Übertragung",
+      "Einsatz von Daten ohne Anpassung an die Anforderungen des Modells",
+      "Erstellen von Duplikaten der Rohdaten zur Sicherstellung der Verfügbarkeit"
+    ],
+    "correct_answers": [
+      "A"
+    ],
+    "erklaerung": "Datenaufbereitung ist der Prozess der Bereinigung, Transformation und Umstrukturierung von Rohdaten, um sie für Analysen und maschinelles Lernen verwendbar zu machen."
+  },
+  {
+    "id": 65,
+    "type": "Multiple-Choice",
+    "question": "Welche Grundsätze sollten bei der Datenhaltung beachtet werden, um den Datenschutz zu gewährleisten? (1+)",
+    "options": [
+      "Speicherung aller verfügbaren Daten zur maximalen Nutzbarkeit.",
+      "Verschlüsselung von personenbezogenen Daten während der Speicherung.",
+      "Minimalprinzip: Es sollen nur die Daten gespeichert werden, die wirklich notwendig sind.",
+      "Alle Mitarbeitenden sollten Zugang zu sämtlichen Daten erhalten, um die Zusammenarbeit zu fördern."
+    ],
+    "correct_answers": [
+      "B",
+      "C"
+    ],
+    "erklaerung": "Datenschutzkonformes Vorgehen erfordert die Verschlüsselung personenbezogener Daten und die Anwendung des Minimalprinzips, wonach nur wirklich notwendige Daten gespeichert werden."
+  },
+  {
+    "id": 66,
+    "type": "Multiple-Choice",
+    "question": "Welche Risiken entstehen, wenn alle Prinzipien der verantwortungsvollen Datennutzung nicht eingehalten werden? (1+)",
+    "options": [
+      "Rechtliche Konsequenzen, wie Bußgelder und Sanktionen.",
+      "Verminderte Qualität und Geschwindigkeit der KI-Modelle.",
+      "Reduzierte Kosten für Datenverarbeitung und Speicherung.",
+      "Erhöhte Gefahr von Datenschutzverletzungen und Datenmissbrauch."
+    ],
+    "correct_answers": [
+      "A",
+      "D"
+    ],
+    "erklaerung": "Die Missachtung verantwortungsvoller Datennutzung führt zu rechtlichen Konsequenzen wie Bußgeldern und erhöht das Risiko von Datenschutzverletzungen und Datenmissbrauch."
+  },
+  {
+    "id": 67,
+    "type": "Multiple-Choice",
+    "question": "Welche Schritte sollten bei einem Datenschutzvorfall gemäß der DS-GVO beachtet werden? (1+)",
+    "options": [
+      "Ermittlung des Sachverhalts und Feststellung, ob personenbezogene Daten betroffen sind.",
+      "Einleitung von Gegenmaßnahmen, um weiteren Schaden zu verhindern.",
+      "Unverzügliche Durchführung der Löschung aller Daten, ohne Prüfung der Notwendigkeit.",
+      "Automatisierte Weitergabe des Vorfalls an alle Mitarbeitenden ohne Filter."
+    ],
+    "correct_answers": [
+      "A",
+      "B"
+    ],
+    "erklaerung": "Bei Datenschutzvorfällen müssen zunächst die Sachlage und Betroffenheit personenbezogener Daten ermittelt und dann geeignete Gegenmaßnahmen zur Schadensbegrenzung eingeleitet werden."
+  },
+  {
+    "id": 68,
+    "type": "Multiple-Choice",
+    "question": "Welche Pflichten haben Verantwortliche bei einem Datenschutzvorfall? (1+)",
+    "options": [
+      "Schweigen über den Vorfall, um Imageschaden zu vermeiden.",
+      "Abwarten, bis eine externe Aufsichtsbehörde den Vorfall untersucht, bevor Maßnahmen ergriffen werden.",
+      "Benachrichtigung der betroffenen Personen bei hohem Risiko.",
+      "Meldung an die Aufsichtsbehörde innerhalb von 72 Stunden."
+    ],
+    "correct_answers": [
+      "C",
+      "D"
+    ],
+    "erklaerung": "Verantwortliche müssen Datenschutzvorfälle innerhalb von 72 Stunden an die Aufsichtsbehörde melden und bei hohem Risiko auch die betroffenen Personen benachrichtigen."
+  },
+  {
+    "id": 69,
+    "type": "Multiple-Choice",
+    "question": "Was gehört zum Inhalt einer Meldung an die Aufsichtsbehörde im Falle eines Datenschutzvorfalls? (1+)",
+    "options": [
+      "Art der Verletzung und die wahrscheinlichen Folgen.",
+      "Name und Kontaktdaten des Datenschutzbeauftragten.",
+      "Beschreibung der Gegenmaßnahmen zur Behebung der Verletzung.",
+      "Information über die nächsten geplanten Marketingkampagnen des Unternehmens."
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "C"
+    ],
+    "erklaerung": "Die Meldung muss Art und Folgen der Verletzung, Kontaktdaten des Datenschutzbeauftragten und Beschreibung der ergriffenen Gegenmaßnahmen enthalten, um eine vollständige Beurteilung zu ermöglichen."
+  },
+  {
+    "id": 70,
+    "type": "Single-Choice",
+    "question": "Welche der folgenden Maßnahmen ist wichtig für die Datenbeschaffung in einem KI-Projekt? (1+)",
+    "options": [
+      "Die Verwendung zutreffender Daten ohne Bezug zur Anwendung.",
+      "Beschaffung relevanter und repräsentativer Daten, die zum Anwendungsfall passen.",
+      "Verwendung nur von historischen Daten ohne Rücksicht auf Aktualität.",
+      "Keine Prüfung der Herkunft der Daten notwendig."
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "erklaerung": "Erfolgreiche KI-Projekte erfordern die Beschaffung relevanter und repräsentativer Daten, die spezifisch zum jeweiligen Anwendungsfall passen und aussagekräftige Ergebnisse ermöglichen."
+  },
+  {
+    "id": 71,
+    "type": "Single-Choice",
+    "question": "Welche Herausforderungen gibt es bei der Datenbeschaffung für KI-Projekte? (1+)",
+    "options": [
+      "Sicherstellung, dass die Daten gesetzeskonform gesammelt und verwendet werden.",
+      "Die einfache Zugänglichkeit aller benötigten Daten.",
+      "Die Erfassung von beliebigen Daten ohne Dokumentation.",
+      "Daten stehen immer ohne rechtliche Einschränkungen zur Verfügung."
+    ],
+    "correct_answers": [
+      "A"
+    ],
+    "erklaerung": "Eine zentrale Herausforderung bei der Datenbeschaffung ist die Einhaltung gesetzlicher Bestimmungen wie Datenschutz und Urheberrecht, um rechtliche Probleme zu vermeiden."
+  },
+  {
+    "id": 72,
+    "type": "Multiple-Choice",
+    "question": "Welche der folgenden Maßnahmen sind Teil eines Datenschutzmanagementsystems, das Unternehmen dabei unterstützt, ein datenschutzkonformes System zu gestalten? (1+)",
+    "options": [
+      "Festlegung von Geschäftsstrukturen basierend auf Umsatz.",
+      "Einbindung von Datenschutz in KI-Projekte.",
+      "Optimierung der Marketingstrategie.",
+      "Erstellung einer Datenschutz-Folgenabschätzung nach Art. 35 DSGVO."
+    ],
+    "correct_answers": [
+      "B",
+      "D"
+    ],
+    "erklaerung": "Ein Datenschutzmanagementsystem umfasst die systematische Einbindung von Datenschutz in KI-Projekte und die Erstellung von Datenschutz-Folgenabschätzungen gemäß DSGVO."
+  },
+  {
+    "id": 73,
+    "type": "Single-Choice",
+    "question": "Was beschreibt eine gängige Herausforderung bei der Zusammenstellung von Trainingsdatensätzen für KI? (1+)",
+    "options": [
+      "Die Anonymisierung von personenbezogenen Daten kann technisch anspruchsvoll sein.",
+      "Relevante Daten sind immer frei im Internet verfügbar.",
+      "Daten aus sozialen Netzwerken sind immer repräsentativ für die Gesamtbevölkerung.",
+      "Es gibt keine rechtlichen Einschränkungen für die Verwendung von Trainingsdaten."
+    ],
+    "correct_answers": [
+      "A"
+    ],
+    "erklaerung": "Die Anonymisierung personenbezogener Daten ist technisch komplex, da sie wirksam sein muss, ohne die Datenqualität für das KI-Training zu beeinträchtigen."
+  },
+  {
+    "id": 74,
+    "type": "Single-Choice",
+    "question": "Welche der folgenden Schritte ist wichtig, um die Qualität von Trainingsdaten für ein KI-Modell zu gewährleisten? (1+)",
+    "options": [
+      "Sicherstellung, dass die Daten die gesamte Zielpopulation repräsentieren.",
+      "Maximierung der Datenmenge, ohne auf die Qualität zu achten.",
+      "Verwendung von veralteten Daten, die in einem bestimmten Zeitraum gesammelt wurden.",
+      "Beschränkung auf Daten aus einer einzigen Quelle, um Konsistenz zu gewährleisten."
+    ],
+    "correct_answers": [
+      "A"
+    ],
+    "erklaerung": "Hochwertige Trainingsdaten müssen die gesamte Zielpopulation repräsentativ abbilden, um Bias zu vermeiden und das KI-Modell für alle relevanten Fälle zu trainieren."
+  },
+  {
+    "id": 75,
+    "type": "Single-Choice",
+    "question": "Was ist eine wichtige Maßnahme, um Verzerrungen (Bias) in Trainingsdaten zu vermeiden? (1+)",
+    "options": [
+      "Sicherstellen, dass die Daten eine ausgewogene Anzahl von Beispielen für alle relevanten Klassen enthalten.",
+      "Verwendung nur von Daten, die aus anonymisierten Quellen stammen.",
+      "Priorisierung von Daten aus großen, unstrukturierten Datenbanken.",
+      "Fokussierung auf Daten, die aus einer bestimmten geografischen Region stammen."
+    ],
+    "correct_answers": [
+      "A"
+    ],
+    "erklaerung": "Bias wird vermieden, indem die Trainingsdaten eine ausgewogene Verteilung aller relevanten Klassen und Gruppen enthalten, sodass das KI-Modell fair und unvoreingenommen lernt."
+  },
+  {
+    "id": 76,
+    "type": "Multiple-Choice",
+    "question": "Welche der folgenden Maßnahmen tragen zur Gewährleistung der Datensicherheit in einem Unternehmen bei? (1+)",
+    "options": [
+      "Verschlüsselung sensibler Daten während der Speicherung und Übertragung.",
+      "Keine Verwendung von Firewalls oder anderen Sicherheitstools.",
+      "Implementierung von Zugriffsrechten, um den Datenzugriff nur autorisierten Nutzern zu ermöglichen.",
+      "Regelmäßige Sicherheitsüberprüfungen und Updates der verwendeten Systeme."
+    ],
+    "correct_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "erklaerung": "Datensicherheit wird durch Verschlüsselung, Zugriffskontrollen für autorisierte Nutzer und regelmäßige Sicherheitsüberprüfungen mit Updates gewährleistet."
+  },
+  {
+    "id": 77,
+    "type": "Single-Choice",
+    "question": "Was ist ein häufiger Fehler bei der Integration von Daten aus verschiedenen Quellen? (1+)",
+    "options": [
+      "Sicherstellung, dass alle Daten korrekt formatiert und normalisiert sind.",
+      "Unzureichende Berücksichtigung von Unterschieden in der Datenqualität.",
+      "Vermeidung der Datenanonymisierung zur besseren Nutzung der Daten.",
+      "Verwendung nur einer Quelle, um Konsistenz zu gewährleisten."
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "erklaerung": "Ein häufiger Fehler ist die unzureichende Berücksichtigung unterschiedlicher Datenqualität zwischen verschiedenen Quellen, was zu inkonsistenten oder fehlerhaften Analyseergebnissen führen kann."
+  },
+  {
+    "id": 78,
+    "type": "Single-Choice",
+    "question": "Welche Herausforderungen können beim Umgang mit unstrukturierten Daten auftreten? (1+)",
+    "options": [
+      "Die einfache und schnelle Verarbeitung, da keine spezielle Struktur notwendig ist.",
+      "Schwierigkeit bei der Identifizierung und Extraktion relevanter Informationen.",
+      "Unstrukturierte Daten sind immer von hoher Qualität und zuverlässig.",
+      "Unstrukturierte Daten erfordern keine speziellen Techniken zur Analyse."
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "erklaerung": "Unstrukturierte Daten erschweren die Identifizierung und Extraktion relevanter Informationen, da sie keine vordefinierte Struktur haben und spezielle Verarbeitungstechniken erfordern."
+  },
+  {
+    "id": 79,
+    "type": "Multiple-Choice",
+    "question": "Welche Datenarten sind besonders wichtig, wenn man die Fairness von KI-Modellen sicherstellen möchte? (1+)",
+    "options": [
+      "Daten, die eine breite und diverse Repräsentation aller betroffenen Gruppen enthalten.",
+      "Daten, die ausschließlich von einer einzigen Quelle oder Region stammen, um Konsistenz zu gewährleisten.",
+      "Daten, die potenziell Verzerrungen (Bias) enthalten, um diese im Modell zu identifizieren und zu korrigieren.",
+      "Daten, die unstrukturiert und schwer zu analysieren sind, da sie das Modell herausfordern."
+    ],
+    "correct_answers": [
+      "A",
+      "C"
+    ],
+    "erklaerung": "Faire KI-Modelle benötigen diverse, repräsentative Daten aller betroffenen Gruppen und auch bewusst eingesetzte bias-behaftete Daten, um Diskriminierung zu erkennen und zu korrigieren."
+  },
+  {
+    "id": 80,
+    "type": "Single-Choice",
+    "question": "Was ist ein Ziel der Datenverschlüsselung im Datenmanagement? (1+)",
+    "options": [
+      "Sicherstellen, dass die Daten während der Speicherung und Übertragung vor unbefugtem Zugriff geschützt sind.",
+      "Erhöhung der Datenmenge durch Reduzierung der Dateigröße.",
+      "Optimierung der Daten für die Verarbeitung durch KI-Modelle.",
+      "Verbesserung der Datenqualität durch falsche Datenbereinigung."
+    ],
+    "correct_answers": [
+      "A"
+    ],
+    "erklaerung": "Datenverschlüsselung schützt sensible Informationen vor unbefugtem Zugriff während der Speicherung und Übertragung und gewährleistet somit die Datensicherheit und -privatsphäre."
+  }
+]

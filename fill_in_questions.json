@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "question": "Die DSGVO steht für Datenschutz-Grund___ordnung.",
+    "answer": "ver",
+    "alternatives": ["verordnung"],
+    "explanation": "Die Datenschutz-Grundverordnung (DSGVO) ist die EU-Verordnung zum Schutz personenbezogener Daten."
+  },
+  {
+    "id": 2,
+    "question": "Neuronale Netze bestehen aus ___, Gewichten und Aktivierungsfunktionen.",
+    "answer": "neuronen",
+    "alternatives": ["knoten", "nodes"],
+    "explanation": "Neuronale Netze sind aus Neuronen (auch Knoten genannt) aufgebaut, die durch Gewichte verbunden sind."
+  },
+  {
+    "id": 3,
+    "question": "Machine Learning wird auf Deutsch als ___ Lernen bezeichnet.",
+    "answer": "maschinelles",
+    "alternatives": ["automatisches"],
+    "explanation": "Machine Learning ist die deutsche Bezeichnung für maschinelles oder automatisches Lernen."
+  },
+  {
+    "id": 4,
+    "question": "Ein Algorithmus ist eine ___ Anweisung zur Lösung eines Problems.",
+    "answer": "schrittweise",
+    "alternatives": ["systematische", "strukturierte"],
+    "explanation": "Ein Algorithmus ist eine schrittweise, systematische Anweisung zur Problemlösung."
+  },
+  {
+    "id": 5,
+    "question": "KI steht für ___ Intelligenz.",
+    "answer": "künstliche",
+    "alternatives": ["artifizielle"],
+    "explanation": "KI ist die Abkürzung für Künstliche Intelligenz (engl. Artificial Intelligence)."
+  },
+  {
+    "id": 6,
+    "question": "Big Data bezeichnet sehr große ___mengen.",
+    "answer": "daten",
+    "alternatives": ["informations"],
+    "explanation": "Big Data bezieht sich auf sehr große Datenmengen, die traditionelle Verarbeitungsmethoden überfordern."
+  },
+  {
+    "id": 7,
+    "question": "Cloud Computing bedeutet die Nutzung von IT-Ressourcen über das ___.",
+    "answer": "internet",
+    "alternatives": ["netz", "web"],
+    "explanation": "Cloud Computing ermöglicht den Zugriff auf IT-Ressourcen über das Internet, ohne lokale Hardware."
+  },
+  {
+    "id": 8,
+    "question": "Ein ___ ist ein Computerprogramm, das automatisch mit Menschen interagiert.",
+    "answer": "chatbot",
+    "alternatives": ["bot"],
+    "explanation": "Ein Chatbot ist ein Programm, das automatisierte Gespräche mit Menschen führen kann."
+  },
+  {
+    "id": 9,
+    "question": "Deep Learning ist eine Unterart des ___ Learning.",
+    "answer": "machine",
+    "alternatives": ["maschinellen"],
+    "explanation": "Deep Learning ist ein Teilbereich des Machine Learning mit mehrschichtigen neuronalen Netzen."
+  },
+  {
+    "id": 10,
+    "question": "API steht für Application Programming ___.",
+    "answer": "interface",
+    "alternatives": ["schnittstelle"],
+    "explanation": "API (Application Programming Interface) ist eine Schnittstelle zwischen verschiedenen Softwareanwendungen."
+  },
+  {
+    "id": 11,
+    "question": "Ein ___ ist ein vortrainiertes KI-Modell für Sprachverarbeitung.",
+    "answer": "transformer",
+    "alternatives": ["sprachmodell"],
+    "explanation": "Transformer sind spezielle neuronale Netzarchitekturen, die besonders für Sprachverarbeitung geeignet sind."
+  },
+  {
+    "id": 12,
+    "question": "Supervised Learning benötigt ___daten zum Training.",
+    "answer": "label",
+    "alternatives": ["markierte", "gelabelte"],
+    "explanation": "Beim überwachten Lernen werden gelabelte Daten verwendet, um das Modell zu trainieren."
+  },
+  {
+    "id": 13,
+    "question": "Ein ___ Angriff versucht, KI-Modelle zu täuschen.",
+    "answer": "adversarial",
+    "alternatives": ["gegnerischer"],
+    "explanation": "Adversarial Attacks sind gezielte Angriffe, um KI-Systeme zu Fehlentscheidungen zu verleiten."
+  },
+  {
+    "id": 14,
+    "question": "Robotic Process ___ automatisiert wiederkehrende Geschäftsprozesse.",
+    "answer": "automation",
+    "alternatives": ["automatisierung"],
+    "explanation": "RPA (Robotic Process Automation) automatisiert routine Geschäftsprozesse durch Software-Roboter."
+  },
+  {
+    "id": 15,
+    "question": "Natural Language ___ ermöglicht Computern das Verstehen menschlicher Sprache.",
+    "answer": "processing",
+    "alternatives": ["verarbeitung"],
+    "explanation": "NLP (Natural Language Processing) befähigt Computer zur Analyse und zum Verstehen natürlicher Sprache."
+  },
+  {
+    "id": 16,
+    "question": "Ein Neural ___ ist eine Sammlung von Trainingsdaten für KI-Modelle.",
+    "answer": "dataset",
+    "alternatives": ["datensatz"],
+    "explanation": "Ein Dataset ist eine strukturierte Sammlung von Daten, die zum Training von KI-Modellen verwendet wird."
+  },
+  {
+    "id": 17,
+    "question": "Computer ___ ermöglicht Maschinen das 'Sehen' und Verstehen von Bildern.",
+    "answer": "vision",
+    "alternatives": ["bildverarbeitung"],
+    "explanation": "Computer Vision ist ein Bereich der KI, der sich mit der automatischen Analyse von Bildern beschäftigt."
+  },
+  {
+    "id": 18,
+    "question": "Ein ___ Filter kann unerwünschte Inhalte automatisch erkennen und blockieren.",
+    "answer": "spam",
+    "alternatives": ["content"],
+    "explanation": "Spam-Filter verwenden KI-Algorithmen zur automatischen Erkennung und Filterung unerwünschter Nachrichten."
+  },
+  {
+    "id": 19,
+    "question": "Reinforcement Learning basiert auf einem System aus ___ und Belohnungen.",
+    "answer": "strafen",
+    "alternatives": ["bestrafungen"],
+    "explanation": "Beim Reinforcement Learning lernt ein Agent durch ein System von Belohnungen und Strafen."
+  },
+  {
+    "id": 20,
+    "question": "Ein Generative ___ Network kann neue Daten erzeugen, die den Trainingsdaten ähneln.",
+    "answer": "adversarial",
+    "alternatives": ["gegnerisches"],
+    "explanation": "GANs (Generative Adversarial Networks) können realistische neue Daten durch zwei konkurrierende Netzwerke erzeugen."
+  }
+]
